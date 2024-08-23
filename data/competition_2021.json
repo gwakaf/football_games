@@ -1,0 +1,23 @@
+{
+    "id": 2021,
+    "area": {
+        "id": 2072,
+        "name": "England",
+        "code": "ENG",
+        "flag": "https://crests.football-data.org/770.svg"
+    },
+    "name": "Premier League",
+    "code": "PL",
+    "type": "LEAGUE",
+    "emblem": "https://crests.football-data.org/PL.png",
+    "plan": "TIER_ONE",
+    "currentSeason": {
+        "id": 2287,
+        "startDate": "2024-08-16",
+        "endDate": "2025-05-25",
+        "currentMatchday": 2,
+        "winner": null
+    },
+    "numberOfAvailableSeasons": 126,
+    "lastUpdated": "2022-03-20T08:58:54Z"
+}

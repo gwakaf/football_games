@@ -1,0 +1,4471 @@
+{
+    "count": 18,
+    "filters": {
+        "season": "2024"
+    },
+    "competition": {
+        "id": 2003,
+        "name": "Eredivisie",
+        "code": "DED",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/ED.png"
+    },
+    "season": {
+        "id": 2293,
+        "startDate": "2024-08-09",
+        "endDate": "2025-05-18",
+        "currentMatchday": 3,
+        "winner": null
+    },
+    "teams": [
+        {
+            "area": {
+                "id": 2163,
+                "name": "Netherlands",
+                "code": "NLD",
+                "flag": "https://crests.football-data.org/8601.svg"
+            },
+            "id": 666,
+            "name": "FC Twente '65",
+            "shortName": "Twente",
+            "tla": "TWE",
+            "crest": "https://crests.football-data.org/666.png",
+            "address": "Colosseum 65 Enschede 7521 PP",
+            "website": "http://www.fctwente.nl",
+            "founded": 1965,
+            "clubColors": "Red / White",
+            "venue": "De Grolsch Veste",
+            "runningCompetitions": [
+                {
+                    "id": 2180,
+                    "name": "Club Friendlies",
+                    "code": "CLF",
+                    "type": "PLAYOFFS",
+                    "emblem": null
+                },
+                {
+                    "id": 2003,
+                    "name": "Eredivisie",
+                    "code": "DED",
+                    "type": "LEAGUE",
+                    "emblem": "https://crests.football-data.org/ED.png"
+                },
+                {
+                    "id": 2174,
+                    "name": "Champions League Qualification",
+                    "code": "CLQ",
+                    "type": "CUP",
+                    "emblem": null
+                }
+            ],
+            "coach": {
+                "id": 136753,
+                "firstName": "Joseph",
+                "lastName": "Oosting",
+                "name": "Joseph Oosting",
+                "dateOfBirth": "1972-01-29",
+                "nationality": "Netherlands",
+                "contract": {
+                    "start": "2023-07",
+                    "until": "2027-06"
+                }
+            },
+            "squad": [
+                {
+                    "id": 99,
+                    "name": "Przemys\u0142aw Tyto\u0144",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "1987-01-04",
+                    "nationality": "Poland"
+                },
+                {
+                    "id": 7286,
+                    "name": "Lars Unnerstall",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "1990-07-20",
+                    "nationality": "Germany"
+                },
+                {
+                    "id": 67882,
+                    "name": "Issam El Maach",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "2000-02-01",
+                    "nationality": "Morocco"
+                },
+                {
+                    "id": 179467,
+                    "name": "Sam Karssies",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "2003-02-26",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 7620,
+                    "name": "Bas Kuipers",
+                    "position": "Defence",
+                    "dateOfBirth": "1994-08-17",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 137693,
+                    "name": "Anass Salah-Eddine",
+                    "position": "Defence",
+                    "dateOfBirth": "2002-01-18",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 151518,
+                    "name": "Mees Hilgers",
+                    "position": "Defence",
+                    "dateOfBirth": "2001-05-13",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 154793,
+                    "name": "Max Bruns",
+                    "position": "Defence",
+                    "dateOfBirth": "2002-11-06",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 192148,
+                    "name": "Mats Rots",
+                    "position": "Defence",
+                    "dateOfBirth": "2006-03-11",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 192656,
+                    "name": "Alec Van Hoorenbeeck",
+                    "position": "Defence",
+                    "dateOfBirth": "1998-12-30",
+                    "nationality": "Belgium"
+                },
+                {
+                    "id": 203112,
+                    "name": "Juli\u00ebn Mesbahi",
+                    "position": "Defence",
+                    "dateOfBirth": "2006-01-31",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 7425,
+                    "name": "Michel Vlap",
+                    "position": "Midfield",
+                    "dateOfBirth": "1997-06-02",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 7560,
+                    "name": "Carel Eiting",
+                    "position": "Midfield",
+                    "dateOfBirth": "1998-02-11",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 7592,
+                    "name": "Mitchell van Bergen",
+                    "position": "Midfield",
+                    "dateOfBirth": "1999-08-27",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 67970,
+                    "name": "Michal Sad\u00edlek",
+                    "position": "Midfield",
+                    "dateOfBirth": "1999-05-31",
+                    "nationality": "Czech Republic"
+                },
+                {
+                    "id": 80161,
+                    "name": "Sem Steijn",
+                    "position": "Midfield",
+                    "dateOfBirth": "2001-11-17",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 128457,
+                    "name": "Mathias Kj\u00f8l\u00f8",
+                    "position": "Midfield",
+                    "dateOfBirth": "2001-06-27",
+                    "nationality": "Norway"
+                },
+                {
+                    "id": 142087,
+                    "name": "Youri Regeer",
+                    "position": "Midfield",
+                    "dateOfBirth": "2003-08-18",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 186400,
+                    "name": "Younes Taha",
+                    "position": "Midfield",
+                    "dateOfBirth": "2002-11-27",
+                    "nationality": "Morocco"
+                },
+                {
+                    "id": 203070,
+                    "name": "Gijs Besselink",
+                    "position": "Midfield",
+                    "dateOfBirth": "2004-06-16",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 263752,
+                    "name": "Harrie Kuster",
+                    "position": "Midfield",
+                    "dateOfBirth": "2005-09-11",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 7455,
+                    "name": "Sam Lammers",
+                    "position": "Offence",
+                    "dateOfBirth": "1997-04-30",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 16061,
+                    "name": "Ricky van Wolfswinkel",
+                    "position": "Offence",
+                    "dateOfBirth": "1989-01-27",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 144858,
+                    "name": "Sayfallah Ltaief",
+                    "position": "Offence",
+                    "dateOfBirth": "2000-04-22",
+                    "nationality": "Tunisia"
+                },
+                {
+                    "id": 153600,
+                    "name": "Daan Rots",
+                    "position": "Offence",
+                    "dateOfBirth": "2001-07-25",
+                    "nationality": "Netherlands"
+                }
+            ],
+            "staff": [],
+            "lastUpdated": "2022-03-24T17:06:27Z"
+        },
+        {
+            "area": {
+                "id": 2163,
+                "name": "Netherlands",
+                "code": "NLD",
+                "flag": "https://crests.football-data.org/8601.svg"
+            },
+            "id": 671,
+            "name": "Heracles Almelo",
+            "shortName": "Heracles",
+            "tla": "HER",
+            "crest": "https://crests.football-data.org/671.png",
+            "address": "Stadionlaan 1 Almelo 7606 JZ",
+            "website": "http://www.heracles.nl",
+            "founded": 1903,
+            "clubColors": "Black / White",
+            "venue": "Erve Asito",
+            "runningCompetitions": [
+                {
+                    "id": 2180,
+                    "name": "Club Friendlies",
+                    "code": "CLF",
+                    "type": "PLAYOFFS",
+                    "emblem": null
+                },
+                {
+                    "id": 2003,
+                    "name": "Eredivisie",
+                    "code": "DED",
+                    "type": "LEAGUE",
+                    "emblem": "https://crests.football-data.org/ED.png"
+                }
+            ],
+            "coach": {
+                "id": 244834,
+                "firstName": "Erwin",
+                "lastName": "van de Looi",
+                "name": "Erwin van de Looi",
+                "dateOfBirth": "1972-02-15",
+                "nationality": "Netherlands",
+                "contract": {
+                    "start": "2023-12",
+                    "until": "2025-06"
+                }
+            },
+            "squad": [
+                {
+                    "id": 56070,
+                    "name": "Robin Mantel",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "2000-11-15",
+                    "nationality": "Belgium"
+                },
+                {
+                    "id": 67930,
+                    "name": "Fabian de Keijzer",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "2000-05-10",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 177975,
+                    "name": "Timo Jansink",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "2003-03-16",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 396,
+                    "name": "Justin Hoogma",
+                    "position": "Defence",
+                    "dateOfBirth": "1998-06-11",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 9714,
+                    "name": "Damon Mirani",
+                    "position": "Defence",
+                    "dateOfBirth": "1996-05-13",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 77028,
+                    "name": "Kelvin Leerdam",
+                    "position": "Defence",
+                    "dateOfBirth": "1990-06-24",
+                    "nationality": "Suriname"
+                },
+                {
+                    "id": 81083,
+                    "name": "Sylian Mokono",
+                    "position": "Defence",
+                    "dateOfBirth": "1999-03-22",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 117473,
+                    "name": "Ivan Mes\u00edk",
+                    "position": "Defence",
+                    "dateOfBirth": "2001-06-01",
+                    "nationality": "Slovakia"
+                },
+                {
+                    "id": 118819,
+                    "name": "Jannes Wieckhoff",
+                    "position": "Defence",
+                    "dateOfBirth": "2000-08-02",
+                    "nationality": "Germany"
+                },
+                {
+                    "id": 124691,
+                    "name": "Ruben Roosken",
+                    "position": "Defence",
+                    "dateOfBirth": "2000-03-02",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 150521,
+                    "name": "Sava Cestic",
+                    "position": "Defence",
+                    "dateOfBirth": "2001-02-19",
+                    "nationality": "Serbia"
+                },
+                {
+                    "id": 158876,
+                    "name": "Lorenzo Milani",
+                    "position": "Defence",
+                    "dateOfBirth": "2001-05-22",
+                    "nationality": "Italy"
+                },
+                {
+                    "id": 172448,
+                    "name": "Mimeirhel Benita",
+                    "position": "Defence",
+                    "dateOfBirth": "2003-11-17",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 213284,
+                    "name": "Stijn Bultman",
+                    "position": "Defence",
+                    "dateOfBirth": "2005-01-29",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 252865,
+                    "name": "Jop Tijink",
+                    "position": "Defence",
+                    "dateOfBirth": "2005-01-30",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 7424,
+                    "name": "Jordy Bruijn",
+                    "position": "Midfield",
+                    "dateOfBirth": "1996-07-23",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 7596,
+                    "name": "Thomas Bruns",
+                    "position": "Midfield",
+                    "dateOfBirth": "1992-01-07",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 93480,
+                    "name": "Dani\u00ebl van Kaam",
+                    "position": "Midfield",
+                    "dateOfBirth": "2000-06-23",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 112779,
+                    "name": "Jan \u017damb\u016frek",
+                    "position": "Midfield",
+                    "dateOfBirth": "2001-02-13",
+                    "nationality": "Czech Republic"
+                },
+                {
+                    "id": 115443,
+                    "name": "Brian De Keersmaecker",
+                    "position": "Midfield",
+                    "dateOfBirth": "2000-05-06",
+                    "nationality": "Belgium"
+                },
+                {
+                    "id": 178569,
+                    "name": "Sem Scheperman",
+                    "position": "Midfield",
+                    "dateOfBirth": "2002-06-24",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 263909,
+                    "name": "Tiago Codinha",
+                    "position": "Midfield",
+                    "dateOfBirth": "2005-07-20",
+                    "nationality": "Canada"
+                },
+                {
+                    "id": 7235,
+                    "name": "Mario Engels",
+                    "position": "Offence",
+                    "dateOfBirth": "1993-10-22",
+                    "nationality": "Germany"
+                },
+                {
+                    "id": 7432,
+                    "name": "Jizz Hornkamp",
+                    "position": "Offence",
+                    "dateOfBirth": "1998-03-07",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 67975,
+                    "name": "Nikolai Laursen",
+                    "position": "Offence",
+                    "dateOfBirth": "1998-02-19",
+                    "nationality": "Denmark"
+                },
+                {
+                    "id": 130178,
+                    "name": "Bryan Limbombe",
+                    "position": "Offence",
+                    "dateOfBirth": "2001-05-14",
+                    "nationality": "Belgium"
+                },
+                {
+                    "id": 144484,
+                    "name": "Suf Podgoreanu",
+                    "position": "Offence",
+                    "dateOfBirth": "2002-01-20",
+                    "nationality": "Israel"
+                },
+                {
+                    "id": 190901,
+                    "name": "Antonio Satriano",
+                    "position": "Offence",
+                    "dateOfBirth": "2003-10-30",
+                    "nationality": "Italy"
+                },
+                {
+                    "id": 192611,
+                    "name": "Diego van Oorschot",
+                    "position": "Offence",
+                    "dateOfBirth": "2004-09-25",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 214172,
+                    "name": "Shiloh 't Zand",
+                    "position": "Offence",
+                    "dateOfBirth": "2003-05-14",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 233584,
+                    "name": "Juho Talvitie",
+                    "position": "Offence",
+                    "dateOfBirth": "2005-03-25",
+                    "nationality": "Finland"
+                },
+                {
+                    "id": 262684,
+                    "name": "Luka Kulenovi\u0107",
+                    "position": "Offence",
+                    "dateOfBirth": "1999-09-29",
+                    "nationality": "Croatia"
+                },
+                {
+                    "id": 263801,
+                    "name": "Giandro Sambo",
+                    "position": "Offence",
+                    "dateOfBirth": "2006-08-28",
+                    "nationality": "Cura\u00e7ao"
+                }
+            ],
+            "staff": [],
+            "lastUpdated": "2022-03-22T10:10:18Z"
+        },
+        {
+            "area": {
+                "id": 2163,
+                "name": "Netherlands",
+                "code": "NLD",
+                "flag": "https://crests.football-data.org/8601.svg"
+            },
+            "id": 672,
+            "name": "Willem II Tilburg",
+            "shortName": "Willem II",
+            "tla": "WII",
+            "crest": "https://crests.football-data.org/672.png",
+            "address": "Goirleseweg 34 Tilburg 5026 PC",
+            "website": "http://www.willem-II.nl",
+            "founded": 1896,
+            "clubColors": "Red / White / Blue",
+            "venue": "Koning Willem II Stadion",
+            "runningCompetitions": [
+                {
+                    "id": 2180,
+                    "name": "Club Friendlies",
+                    "code": "CLF",
+                    "type": "PLAYOFFS",
+                    "emblem": null
+                },
+                {
+                    "id": 2003,
+                    "name": "Eredivisie",
+                    "code": "DED",
+                    "type": "LEAGUE",
+                    "emblem": "https://crests.football-data.org/ED.png"
+                }
+            ],
+            "coach": {
+                "id": 11951,
+                "firstName": "Peter",
+                "lastName": "Maes",
+                "name": "Peter Maes",
+                "dateOfBirth": "1964-06-01",
+                "nationality": "Belgium",
+                "contract": {
+                    "start": "2023-09",
+                    "until": "2026-06"
+                }
+            },
+            "squad": [
+                {
+                    "id": 8712,
+                    "name": "Thomas Didillon",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "1995-11-28",
+                    "nationality": "France"
+                },
+                {
+                    "id": 9851,
+                    "name": "Joshua Smits",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "1992-11-06",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 124552,
+                    "name": "Connor van den Berg",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "2001-03-18",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 154361,
+                    "name": "Maarten Schut",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "2003-10-13",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 8934,
+                    "name": "Micka\u00ebl Tirpan",
+                    "position": "Defence",
+                    "dateOfBirth": "1993-10-23",
+                    "nationality": "Belgium"
+                },
+                {
+                    "id": 10690,
+                    "name": "Raffael Behounek",
+                    "position": "Defence",
+                    "dateOfBirth": "1997-04-16",
+                    "nationality": "Austria"
+                },
+                {
+                    "id": 53390,
+                    "name": "Valentino  Vermeulen",
+                    "position": "Defence",
+                    "dateOfBirth": "2001-07-20",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 53440,
+                    "name": "Erik Schouten",
+                    "position": "Defence",
+                    "dateOfBirth": "1991-08-16",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 67941,
+                    "name": "Tommy St. Jago",
+                    "position": "Defence",
+                    "dateOfBirth": "2000-01-03",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 185020,
+                    "name": "Rob Nizet",
+                    "position": "Defence",
+                    "dateOfBirth": "2002-04-14",
+                    "nationality": "Belgium"
+                },
+                {
+                    "id": 189244,
+                    "name": "Amine Lachkar",
+                    "position": "Defence",
+                    "dateOfBirth": "1999-04-27",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 263749,
+                    "name": "Jens Mathijsen",
+                    "position": "Defence",
+                    "dateOfBirth": null,
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 7498,
+                    "name": "Patrick Joosten",
+                    "position": "Midfield",
+                    "dateOfBirth": "1996-04-14",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 41651,
+                    "name": "R\u00fanar \u00de\u00f3r Sigurgeirsson",
+                    "position": "Midfield",
+                    "dateOfBirth": "1999-12-28",
+                    "nationality": "Iceland"
+                },
+                {
+                    "id": 124714,
+                    "name": "Jesse Bosch",
+                    "position": "Midfield",
+                    "dateOfBirth": "2000-02-01",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 130109,
+                    "name": "Max de Waal",
+                    "position": "Midfield",
+                    "dateOfBirth": "2002-01-10",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 147773,
+                    "name": "Cisse Sandra",
+                    "position": "Midfield",
+                    "dateOfBirth": "2003-12-16",
+                    "nationality": "Belgium"
+                },
+                {
+                    "id": 186444,
+                    "name": "Dani Mathieu",
+                    "position": "Midfield",
+                    "dateOfBirth": "2001-02-09",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 36749,
+                    "name": "Jeremy Bokila",
+                    "position": "Offence",
+                    "dateOfBirth": "1988-11-14",
+                    "nationality": "DR Congo"
+                },
+                {
+                    "id": 53450,
+                    "name": "Nick Doodeman",
+                    "position": "Offence",
+                    "dateOfBirth": "1996-10-22",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 124729,
+                    "name": "Kyan Vaesen",
+                    "position": "Offence",
+                    "dateOfBirth": "2001-04-13",
+                    "nationality": "Belgium"
+                },
+                {
+                    "id": 125914,
+                    "name": "Ringo Meerveld",
+                    "position": "Offence",
+                    "dateOfBirth": "2000-12-21",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 157385,
+                    "name": "Emilio Kehrer",
+                    "position": "Offence",
+                    "dateOfBirth": "2002-03-20",
+                    "nationality": "Germany"
+                },
+                {
+                    "id": 189242,
+                    "name": "Niels van Berkel",
+                    "position": "Offence",
+                    "dateOfBirth": "2001-09-07",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 189770,
+                    "name": "Khaled Razak",
+                    "position": "Offence",
+                    "dateOfBirth": "2005-12-13",
+                    "nationality": "Netherlands"
+                }
+            ],
+            "staff": [],
+            "lastUpdated": "2022-03-24T17:06:41Z"
+        },
+        {
+            "area": {
+                "id": 2163,
+                "name": "Netherlands",
+                "code": "NLD",
+                "flag": "https://crests.football-data.org/8601.svg"
+            },
+            "id": 673,
+            "name": "SC Heerenveen",
+            "shortName": "Heerenveen",
+            "tla": "HEE",
+            "crest": "https://crests.football-data.org/673.png",
+            "address": "Abe Lenstra Boulevard 19 Heerenveen 8448 JA",
+            "website": "http://www.sc-heerenveen.nl",
+            "founded": 1920,
+            "clubColors": "Blue / White",
+            "venue": "Abe Lenstra Stadion",
+            "runningCompetitions": [
+                {
+                    "id": 2180,
+                    "name": "Club Friendlies",
+                    "code": "CLF",
+                    "type": "PLAYOFFS",
+                    "emblem": null
+                },
+                {
+                    "id": 2003,
+                    "name": "Eredivisie",
+                    "code": "DED",
+                    "type": "LEAGUE",
+                    "emblem": "https://crests.football-data.org/ED.png"
+                }
+            ],
+            "coach": {
+                "id": 7481,
+                "firstName": "Robin",
+                "lastName": "van Persie",
+                "name": "Robin van Persie",
+                "dateOfBirth": "1983-08-06",
+                "nationality": "Netherlands",
+                "contract": {
+                    "start": "2024-07",
+                    "until": "2026-06"
+                }
+            },
+            "squad": [
+                {
+                    "id": 3053,
+                    "name": "Andries Noppert",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "1994-04-07",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 7410,
+                    "name": "Jan Bekkema",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "1996-04-09",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 7704,
+                    "name": "Mickey van der Hart",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "1994-06-13",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 191291,
+                    "name": "Bernt Klaverboer",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "2005-09-26",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 6538,
+                    "name": "Mats K\u00f6hlert",
+                    "position": "Defence",
+                    "dateOfBirth": "1998-05-02",
+                    "nationality": "Germany"
+                },
+                {
+                    "id": 11010,
+                    "name": "Pawe\u0142 Bochniewicz",
+                    "position": "Defence",
+                    "dateOfBirth": "1996-01-30",
+                    "nationality": "Poland"
+                },
+                {
+                    "id": 53313,
+                    "name": "Sam Kersten",
+                    "position": "Defence",
+                    "dateOfBirth": "1998-01-30",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 126737,
+                    "name": "Denzel Hall",
+                    "position": "Defence",
+                    "dateOfBirth": "2001-05-22",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 129968,
+                    "name": "Hussein Ali",
+                    "position": "Defence",
+                    "dateOfBirth": "2002-03-01",
+                    "nationality": "Iraq"
+                },
+                {
+                    "id": 185967,
+                    "name": "Mateja Milovanovic",
+                    "position": "Defence",
+                    "dateOfBirth": "2004-04-18",
+                    "nationality": "Serbia"
+                },
+                {
+                    "id": 7077,
+                    "name": "Amara Cond\u00e9",
+                    "position": "Midfield",
+                    "dateOfBirth": "1997-01-06",
+                    "nationality": "Germany"
+                },
+                {
+                    "id": 31250,
+                    "name": "Simon Olsson",
+                    "position": "Midfield",
+                    "dateOfBirth": "1997-09-14",
+                    "nationality": "Sweden"
+                },
+                {
+                    "id": 53341,
+                    "name": "Luuk Brouwers",
+                    "position": "Midfield",
+                    "dateOfBirth": "1998-05-03",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 84910,
+                    "name": "Ion Nicol\u0103escu",
+                    "position": "Midfield",
+                    "dateOfBirth": "1998-09-07",
+                    "nationality": "Moldova"
+                },
+                {
+                    "id": 159073,
+                    "name": "Daniel Karlsbakk",
+                    "position": "Midfield",
+                    "dateOfBirth": "2003-04-07",
+                    "nationality": "Norway"
+                },
+                {
+                    "id": 171627,
+                    "name": "Levi Smans",
+                    "position": "Midfield",
+                    "dateOfBirth": "2004-03-25",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 175835,
+                    "name": "Ilias Sebaoui",
+                    "position": "Midfield",
+                    "dateOfBirth": "2001-10-04",
+                    "nationality": "Belgium"
+                },
+                {
+                    "id": 193575,
+                    "name": "Danilo Al-Saed",
+                    "position": "Midfield",
+                    "dateOfBirth": "1999-02-24",
+                    "nationality": "Iraq"
+                },
+                {
+                    "id": 210841,
+                    "name": "Jacob Trenskow",
+                    "position": "Midfield",
+                    "dateOfBirth": "2000-11-26",
+                    "nationality": "Denmark"
+                },
+                {
+                    "id": 214414,
+                    "name": "Oliver Braude",
+                    "position": "Midfield",
+                    "dateOfBirth": "2004-02-21",
+                    "nationality": "Norway"
+                },
+                {
+                    "id": 214415,
+                    "name": "Espen van Ee",
+                    "position": "Midfield",
+                    "dateOfBirth": "2003-07-05",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 214419,
+                    "name": "Melle Joop Witteveen",
+                    "position": "Midfield",
+                    "dateOfBirth": "2003-06-24",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 263862,
+                    "name": "Ties Oostra",
+                    "position": "Midfield",
+                    "dateOfBirth": "2004-01-29",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 263863,
+                    "name": "Isaiah Ahmed",
+                    "position": "Midfield",
+                    "dateOfBirth": "2005-12-28",
+                    "nationality": "Cura\u00e7ao"
+                },
+                {
+                    "id": 67896,
+                    "name": "Ch\u00e9 Nunnely",
+                    "position": "Offence",
+                    "dateOfBirth": "1999-02-04",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 263865,
+                    "name": "Dimitris Rallis",
+                    "position": "Offence",
+                    "dateOfBirth": "2005-03-26",
+                    "nationality": "Netherlands"
+                }
+            ],
+            "staff": [],
+            "lastUpdated": "2022-02-20T08:40:47Z"
+        },
+        {
+            "area": {
+                "id": 2163,
+                "name": "Netherlands",
+                "code": "NLD",
+                "flag": "https://crests.football-data.org/8601.svg"
+            },
+            "id": 674,
+            "name": "PSV",
+            "shortName": "PSV",
+            "tla": "PSV",
+            "crest": "https://crests.football-data.org/674.png",
+            "address": "Fredriklaan 10a Eindhoven 5616 NH",
+            "website": "http://www.psv.nl",
+            "founded": 1913,
+            "clubColors": "Red / White",
+            "venue": "Philips Stadion",
+            "runningCompetitions": [
+                {
+                    "id": 2180,
+                    "name": "Club Friendlies",
+                    "code": "CLF",
+                    "type": "PLAYOFFS",
+                    "emblem": null
+                },
+                {
+                    "id": 2003,
+                    "name": "Eredivisie",
+                    "code": "DED",
+                    "type": "LEAGUE",
+                    "emblem": "https://crests.football-data.org/ED.png"
+                }
+            ],
+            "coach": {
+                "id": 43925,
+                "firstName": "Peter",
+                "lastName": "Bosz",
+                "name": "Peter Bosz",
+                "dateOfBirth": "1963-11-21",
+                "nationality": "Netherlands",
+                "contract": {
+                    "start": "2023-07",
+                    "until": "2026-06"
+                }
+            },
+            "squad": [
+                {
+                    "id": 7250,
+                    "name": "Jo\u00ebl Drommel",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "1996-11-16",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 8420,
+                    "name": "Walter Ben\u00edtez",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "1993-03-19",
+                    "nationality": "Argentina"
+                },
+                {
+                    "id": 172077,
+                    "name": "Niek Schiks",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "2004-02-03",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 846,
+                    "name": "Olivier Boscagli",
+                    "position": "Defence",
+                    "dateOfBirth": "1997-11-18",
+                    "nationality": "France"
+                },
+                {
+                    "id": 7443,
+                    "name": "Armando Obispo",
+                    "position": "Defence",
+                    "dateOfBirth": "1999-03-05",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 7451,
+                    "name": "Mauro J\u00fanior",
+                    "position": "Defence",
+                    "dateOfBirth": "1999-05-06",
+                    "nationality": "Brazil"
+                },
+                {
+                    "id": 97534,
+                    "name": "Sergi\u00f1o Dest",
+                    "position": "Defence",
+                    "dateOfBirth": "2000-11-03",
+                    "nationality": "USA"
+                },
+                {
+                    "id": 154108,
+                    "name": "Fredrik Oppegard",
+                    "position": "Defence",
+                    "dateOfBirth": "2002-08-07",
+                    "nationality": "Norway"
+                },
+                {
+                    "id": 167794,
+                    "name": "Emmanuel van de Blaak",
+                    "position": "Defence",
+                    "dateOfBirth": "2005-02-15",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 176254,
+                    "name": "Matteo Dams",
+                    "position": "Defence",
+                    "dateOfBirth": "2004-03-09",
+                    "nationality": "Belgium"
+                },
+                {
+                    "id": 184642,
+                    "name": "Ryan Flamingo",
+                    "position": "Defence",
+                    "dateOfBirth": "2002-12-31",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 7565,
+                    "name": "Noa Lang",
+                    "position": "Midfield",
+                    "dateOfBirth": "1999-06-17",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 7688,
+                    "name": "Guus Til",
+                    "position": "Midfield",
+                    "dateOfBirth": "1997-12-22",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 53426,
+                    "name": "Joey Veerman",
+                    "position": "Midfield",
+                    "dateOfBirth": "1998-11-19",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 130173,
+                    "name": "Ismael Saibari",
+                    "position": "Midfield",
+                    "dateOfBirth": "2001-01-28",
+                    "nationality": "Morocco"
+                },
+                {
+                    "id": 144470,
+                    "name": "Malik Tillman",
+                    "position": "Midfield",
+                    "dateOfBirth": "2002-05-28",
+                    "nationality": "USA"
+                },
+                {
+                    "id": 154110,
+                    "name": "Johan Bakayoko",
+                    "position": "Midfield",
+                    "dateOfBirth": "2003-04-20",
+                    "nationality": "Belgium"
+                },
+                {
+                    "id": 179525,
+                    "name": "Richie Ledezma",
+                    "position": "Midfield",
+                    "dateOfBirth": "2000-09-06",
+                    "nationality": "USA"
+                },
+                {
+                    "id": 190468,
+                    "name": "Tygo Land",
+                    "position": "Midfield",
+                    "dateOfBirth": "2006-01-11",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 214386,
+                    "name": "Isaac Babadi",
+                    "position": "Midfield",
+                    "dateOfBirth": "2005-04-06",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 7452,
+                    "name": "Luuk de Jong",
+                    "position": "Offence",
+                    "dateOfBirth": "1990-08-27",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 119731,
+                    "name": "Ricardo Pepi",
+                    "position": "Offence",
+                    "dateOfBirth": "2003-01-09",
+                    "nationality": "USA"
+                },
+                {
+                    "id": 150536,
+                    "name": "Couhaib Driouech",
+                    "position": "Offence",
+                    "dateOfBirth": "2002-04-17",
+                    "nationality": "Morocco"
+                },
+                {
+                    "id": 9770,
+                    "name": "Jerdy Schouten",
+                    "position": "Defensive Midfield",
+                    "dateOfBirth": "1997-01-12",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 3306,
+                    "name": "Hirving Lozano",
+                    "position": "Left Winger",
+                    "dateOfBirth": "1995-07-30",
+                    "nationality": "Mexico"
+                }
+            ],
+            "staff": [],
+            "lastUpdated": "2022-03-06T09:30:40Z"
+        },
+        {
+            "area": {
+                "id": 2163,
+                "name": "Netherlands",
+                "code": "NLD",
+                "flag": "https://crests.football-data.org/8601.svg"
+            },
+            "id": 675,
+            "name": "Feyenoord Rotterdam",
+            "shortName": "Feyenoord",
+            "tla": "FEY",
+            "crest": "https://crests.football-data.org/675.png",
+            "address": "Van Zandvlietplein 3 Rotterdam 3007 AP",
+            "website": "http://www.feyenoord.nl",
+            "founded": 1908,
+            "clubColors": "Red / White / Black",
+            "venue": "Stadion Feijenoord",
+            "runningCompetitions": [
+                {
+                    "id": 2180,
+                    "name": "Club Friendlies",
+                    "code": "CLF",
+                    "type": "PLAYOFFS",
+                    "emblem": null
+                },
+                {
+                    "id": 2003,
+                    "name": "Eredivisie",
+                    "code": "DED",
+                    "type": "LEAGUE",
+                    "emblem": "https://crests.football-data.org/ED.png"
+                }
+            ],
+            "coach": {
+                "id": 128732,
+                "firstName": "Brian",
+                "lastName": "Priske",
+                "name": "Brian Priske",
+                "dateOfBirth": "1977-05-14",
+                "nationality": "Denmark",
+                "contract": {
+                    "start": "2024-07",
+                    "until": "2027-06"
+                }
+            },
+            "squad": [
+                {
+                    "id": 7375,
+                    "name": "Timon Wellenreuther",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "1995-12-03",
+                    "nationality": "Germany"
+                },
+                {
+                    "id": 7460,
+                    "name": "Justin Bijlow",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "1998-01-22",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 217908,
+                    "name": "Mikki van Sas",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "2004-02-29",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 7468,
+                    "name": "Lutsharel Geertruida",
+                    "position": "Defence",
+                    "dateOfBirth": "2000-07-18",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 7471,
+                    "name": "Bart Nieuwkoop",
+                    "position": "Defence",
+                    "dateOfBirth": "1996-03-07",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 10716,
+                    "name": "Gernot Trauner",
+                    "position": "Defence",
+                    "dateOfBirth": "1992-03-25",
+                    "nationality": "Austria"
+                },
+                {
+                    "id": 15542,
+                    "name": "D\u00e1vid Hancko",
+                    "position": "Defence",
+                    "dateOfBirth": "1997-12-13",
+                    "nationality": "Slovakia"
+                },
+                {
+                    "id": 53430,
+                    "name": "Gijs Smal",
+                    "position": "Defence",
+                    "dateOfBirth": "1997-08-31",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 127235,
+                    "name": "Neraysho Kasanwirjo",
+                    "position": "Defence",
+                    "dateOfBirth": "2002-02-18",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 179504,
+                    "name": "Thomas Beelen",
+                    "position": "Defence",
+                    "dateOfBirth": "2001-06-11",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 186534,
+                    "name": "Givairo Read",
+                    "position": "Defence",
+                    "dateOfBirth": "2004-02-20",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 187219,
+                    "name": "Quilindschy Hartman",
+                    "position": "Defence",
+                    "dateOfBirth": "2001-11-14",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 253514,
+                    "name": "Jeyland Mitchell",
+                    "position": "Defence",
+                    "dateOfBirth": "2004-09-29",
+                    "nationality": "Costa Rica"
+                },
+                {
+                    "id": 23213,
+                    "name": "Luka Ivanu\u0161ec",
+                    "position": "Midfield",
+                    "dateOfBirth": "1998-11-26",
+                    "nationality": "Croatia"
+                },
+                {
+                    "id": 62596,
+                    "name": "Ond\u0159ej Lingr",
+                    "position": "Midfield",
+                    "dateOfBirth": "1998-10-07",
+                    "nationality": "Czech Republic"
+                },
+                {
+                    "id": 97536,
+                    "name": "Quinten Timber",
+                    "position": "Midfield",
+                    "dateOfBirth": "2001-06-17",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 124715,
+                    "name": "Ramiz Zerrouki",
+                    "position": "Midfield",
+                    "dateOfBirth": "1998-05-26",
+                    "nationality": "Algeria"
+                },
+                {
+                    "id": 137750,
+                    "name": "Patrik W\u00e5lemark",
+                    "position": "Midfield",
+                    "dateOfBirth": "2001-10-14",
+                    "nationality": "Sweden"
+                },
+                {
+                    "id": 171965,
+                    "name": "Antoni Milambo",
+                    "position": "Midfield",
+                    "dateOfBirth": "2005-04-03",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 215554,
+                    "name": "Gjivai Zechi\u00ebl",
+                    "position": "Midfield",
+                    "dateOfBirth": "2004-06-01",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 255551,
+                    "name": "Chris-K\u00e9vin Nadje",
+                    "position": "Midfield",
+                    "dateOfBirth": "2001-08-14",
+                    "nationality": "Ivory Coast"
+                },
+                {
+                    "id": 7690,
+                    "name": "Calvin Stengs",
+                    "position": "Offence",
+                    "dateOfBirth": "1998-12-18",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 39635,
+                    "name": "Santiago Gim\u00e9nez",
+                    "position": "Offence",
+                    "dateOfBirth": "2001-04-18",
+                    "nationality": "Mexico"
+                },
+                {
+                    "id": 45727,
+                    "name": "Juli\u00e1n Carranza",
+                    "position": "Offence",
+                    "dateOfBirth": "2000-05-22",
+                    "nationality": "Argentina"
+                },
+                {
+                    "id": 98297,
+                    "name": "Ezequiel Bullaude",
+                    "position": "Offence",
+                    "dateOfBirth": "2000-10-26",
+                    "nationality": "Argentina"
+                },
+                {
+                    "id": 119460,
+                    "name": "Ayase Ueda",
+                    "position": "Offence",
+                    "dateOfBirth": "1998-09-10",
+                    "nationality": "Japan"
+                },
+                {
+                    "id": 119703,
+                    "name": "Igor Paix\u00e3o",
+                    "position": "Offence",
+                    "dateOfBirth": "2000-06-28",
+                    "nationality": "Brazil"
+                },
+                {
+                    "id": 205531,
+                    "name": "Ibrahim Osman",
+                    "position": "Offence",
+                    "dateOfBirth": "2004-12-14",
+                    "nationality": "Ghana"
+                },
+                {
+                    "id": 244466,
+                    "name": "Anis Moussa",
+                    "position": "Offence",
+                    "dateOfBirth": "2002-02-11",
+                    "nationality": "Algeria"
+                },
+                {
+                    "id": 157709,
+                    "name": "Hugo Bueno",
+                    "position": "Left-Back",
+                    "dateOfBirth": "2002-09-18",
+                    "nationality": "Spain"
+                }
+            ],
+            "staff": [],
+            "lastUpdated": "2022-03-24T17:06:52Z"
+        },
+        {
+            "area": {
+                "id": 2163,
+                "name": "Netherlands",
+                "code": "NLD",
+                "flag": "https://crests.football-data.org/8601.svg"
+            },
+            "id": 676,
+            "name": "FC Utrecht",
+            "shortName": "Utrecht",
+            "tla": "UTR",
+            "crest": "https://crests.football-data.org/676.png",
+            "address": "Postbus 85159 Utrecht 3508 AD",
+            "website": "http://www.fc-utrecht.nl",
+            "founded": 1970,
+            "clubColors": "Red / White",
+            "venue": "Stadion Galgenwaard",
+            "runningCompetitions": [
+                {
+                    "id": 2180,
+                    "name": "Club Friendlies",
+                    "code": "CLF",
+                    "type": "PLAYOFFS",
+                    "emblem": null
+                },
+                {
+                    "id": 2003,
+                    "name": "Eredivisie",
+                    "code": "DED",
+                    "type": "LEAGUE",
+                    "emblem": "https://crests.football-data.org/ED.png"
+                }
+            ],
+            "coach": {
+                "id": 125706,
+                "firstName": "Ron",
+                "lastName": "Jans",
+                "name": "Ron Jans",
+                "dateOfBirth": "1958-09-29",
+                "nationality": "Netherlands",
+                "contract": {
+                    "start": "2023-09",
+                    "until": "2025-06"
+                }
+            },
+            "squad": [
+                {
+                    "id": 7345,
+                    "name": "Michael Brouwer",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "1993-01-21",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 157656,
+                    "name": "Kevin Gadellaa",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "2003-03-08",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 175970,
+                    "name": "Tom de Graaff",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "2004-12-10",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 176010,
+                    "name": "Andreas Dithmer",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "2005-08-01",
+                    "nationality": "Denmark"
+                },
+                {
+                    "id": 180855,
+                    "name": "Vassilis Barkas",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "1994-05-30",
+                    "nationality": "Greece"
+                },
+                {
+                    "id": 7548,
+                    "name": "Nick Viergever",
+                    "position": "Defence",
+                    "dateOfBirth": "1989-08-03",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 7970,
+                    "name": "Mike van der Hoorn",
+                    "position": "Defence",
+                    "dateOfBirth": "1992-10-15",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 8902,
+                    "name": "Siebe Horemans",
+                    "position": "Defence",
+                    "dateOfBirth": "1998-06-02",
+                    "nationality": "Belgium"
+                },
+                {
+                    "id": 78310,
+                    "name": "Matisse Didden",
+                    "position": "Defence",
+                    "dateOfBirth": "2001-10-08",
+                    "nationality": "Belgium"
+                },
+                {
+                    "id": 115370,
+                    "name": "Niklas Vesterlund",
+                    "position": "Defence",
+                    "dateOfBirth": "1999-06-06",
+                    "nationality": "Denmark"
+                },
+                {
+                    "id": 125524,
+                    "name": "Souffian El Karouani",
+                    "position": "Defence",
+                    "dateOfBirth": "2000-10-19",
+                    "nationality": "Morocco"
+                },
+                {
+                    "id": 157655,
+                    "name": "Joshua Mukeh",
+                    "position": "Defence",
+                    "dateOfBirth": "2003-09-01",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 215426,
+                    "name": "Rickson van Hees",
+                    "position": "Defence",
+                    "dateOfBirth": "2002-07-21",
+                    "nationality": "USA"
+                },
+                {
+                    "id": 7470,
+                    "name": "Jens Toornstra",
+                    "position": "Midfield",
+                    "dateOfBirth": "1989-04-04",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 67901,
+                    "name": "Victor Jensen",
+                    "position": "Midfield",
+                    "dateOfBirth": "2000-02-08",
+                    "nationality": "Denmark"
+                },
+                {
+                    "id": 111679,
+                    "name": "Kolbeinn Finnsson",
+                    "position": "Midfield",
+                    "dateOfBirth": "1999-08-25",
+                    "nationality": "Iceland"
+                },
+                {
+                    "id": 128339,
+                    "name": "Alonzo Engwanda",
+                    "position": "Midfield",
+                    "dateOfBirth": "2003-01-27",
+                    "nationality": "Belgium"
+                },
+                {
+                    "id": 144423,
+                    "name": "Can Bozdogan",
+                    "position": "Midfield",
+                    "dateOfBirth": "2001-04-05",
+                    "nationality": "Germany"
+                },
+                {
+                    "id": 144600,
+                    "name": "Taylor Booth",
+                    "position": "Midfield",
+                    "dateOfBirth": "2001-05-31",
+                    "nationality": "USA"
+                },
+                {
+                    "id": 170782,
+                    "name": "Oscar Fraulo",
+                    "position": "Midfield",
+                    "dateOfBirth": "2003-12-06",
+                    "nationality": "Denmark"
+                },
+                {
+                    "id": 176642,
+                    "name": "Zidane Iqbal",
+                    "position": "Midfield",
+                    "dateOfBirth": "2003-04-27",
+                    "nationality": "Iraq"
+                },
+                {
+                    "id": 182186,
+                    "name": "Adrian Blake",
+                    "position": "Midfield",
+                    "dateOfBirth": "2005-07-15",
+                    "nationality": "England"
+                },
+                {
+                    "id": 217997,
+                    "name": "Silas Andersen",
+                    "position": "Midfield",
+                    "dateOfBirth": "2004-06-13",
+                    "nationality": "Denmark"
+                },
+                {
+                    "id": 9880,
+                    "name": "Ole Romeny",
+                    "position": "Offence",
+                    "dateOfBirth": "2000-06-20",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 103082,
+                    "name": "David Min",
+                    "position": "Offence",
+                    "dateOfBirth": "1999-06-23",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 136381,
+                    "name": "Anthony Descotte",
+                    "position": "Offence",
+                    "dateOfBirth": "2003-08-03",
+                    "nationality": "Belgium"
+                },
+                {
+                    "id": 148291,
+                    "name": "Yoann Cathline",
+                    "position": "Offence",
+                    "dateOfBirth": "2002-07-22",
+                    "nationality": "France"
+                },
+                {
+                    "id": 157622,
+                    "name": "Noah Ohio",
+                    "position": "Offence",
+                    "dateOfBirth": "2003-01-16",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 167447,
+                    "name": "Paxten Aaronson",
+                    "position": "Attacking Midfield",
+                    "dateOfBirth": "2003-08-26",
+                    "nationality": "USA"
+                },
+                {
+                    "id": 150525,
+                    "name": "Miguel Rodr\u00edguez",
+                    "position": "Right Winger",
+                    "dateOfBirth": "2003-04-29",
+                    "nationality": "Spain"
+                }
+            ],
+            "staff": [],
+            "lastUpdated": "2022-03-24T17:07:00Z"
+        },
+        {
+            "area": {
+                "id": 2163,
+                "name": "Netherlands",
+                "code": "NLD",
+                "flag": "https://crests.football-data.org/8601.svg"
+            },
+            "id": 677,
+            "name": "FC Groningen",
+            "shortName": "Groningen",
+            "tla": "GRO",
+            "crest": "https://crests.football-data.org/677.png",
+            "address": "Boumaboulevard 41 Groningen 9701 BJ",
+            "website": "http://www.fcgroningen.nl",
+            "founded": 1921,
+            "clubColors": "Green / White",
+            "venue": "Hitachi Capital Mobility Stadion",
+            "runningCompetitions": [
+                {
+                    "id": 2180,
+                    "name": "Club Friendlies",
+                    "code": "CLF",
+                    "type": "PLAYOFFS",
+                    "emblem": null
+                },
+                {
+                    "id": 2003,
+                    "name": "Eredivisie",
+                    "code": "DED",
+                    "type": "LEAGUE",
+                    "emblem": "https://crests.football-data.org/ED.png"
+                }
+            ],
+            "coach": {
+                "id": 9850,
+                "firstName": "Dick",
+                "lastName": "Lukkien",
+                "name": "Dick Lukkien",
+                "dateOfBirth": "1972-03-28",
+                "nationality": "Netherlands",
+                "contract": {
+                    "start": "2023-07",
+                    "until": "2026-06"
+                }
+            },
+            "squad": [
+                {
+                    "id": 7215,
+                    "name": "Hidde Jurjus",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "1994-02-09",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 10111,
+                    "name": "Etienne Vaessen",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "1995-07-26",
+                    "nationality": "Suriname"
+                },
+                {
+                    "id": 178057,
+                    "name": "Dirk Baron",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "2002-08-16",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 203121,
+                    "name": "Jasper Meijster",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "2005-01-03",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 45647,
+                    "name": "Marco Rente",
+                    "position": "Defence",
+                    "dateOfBirth": "1997-02-25",
+                    "nationality": "Germany"
+                },
+                {
+                    "id": 71983,
+                    "name": "Marvin Peersman",
+                    "position": "Defence",
+                    "dateOfBirth": "1991-02-10",
+                    "nationality": "Belgium"
+                },
+                {
+                    "id": 171454,
+                    "name": "Finn Stam",
+                    "position": "Defence",
+                    "dateOfBirth": "2003-04-13",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 179522,
+                    "name": "Tijmen Blokzijl",
+                    "position": "Defence",
+                    "dateOfBirth": "2005-02-25",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 218463,
+                    "name": "Wouter Prins",
+                    "position": "Defence",
+                    "dateOfBirth": "2004-02-06",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 244840,
+                    "name": "Roy Leicester",
+                    "position": "Defence",
+                    "dateOfBirth": "2006-05-15",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 246685,
+                    "name": "Sven Bouland",
+                    "position": "Defence",
+                    "dateOfBirth": "2006-02-22",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 263644,
+                    "name": "Marco Speelman",
+                    "position": "Defence",
+                    "dateOfBirth": "2006-07-15",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 4280,
+                    "name": "Leandro Bacuna",
+                    "position": "Midfield",
+                    "dateOfBirth": "1991-08-21",
+                    "nationality": "Cura\u00e7ao"
+                },
+                {
+                    "id": 11772,
+                    "name": "Joey Pelupessy",
+                    "position": "Midfield",
+                    "dateOfBirth": "1993-05-15",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 41302,
+                    "name": "Brynjolfur Darri Willumsson",
+                    "position": "Midfield",
+                    "dateOfBirth": "2000-08-12",
+                    "nationality": "Iceland"
+                },
+                {
+                    "id": 44056,
+                    "name": "Johan Hove",
+                    "position": "Midfield",
+                    "dateOfBirth": "2000-09-07",
+                    "nationality": "Norway"
+                },
+                {
+                    "id": 57281,
+                    "name": "Rui Mendes",
+                    "position": "Midfield",
+                    "dateOfBirth": "1999-11-10",
+                    "nationality": "Portugal"
+                },
+                {
+                    "id": 67920,
+                    "name": "Thijs Oosting",
+                    "position": "Midfield",
+                    "dateOfBirth": "2000-05-02",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 169190,
+                    "name": "Luciano Valente",
+                    "position": "Midfield",
+                    "dateOfBirth": "2003-10-04",
+                    "nationality": "Italy"
+                },
+                {
+                    "id": 189599,
+                    "name": "Jorg Schreuders",
+                    "position": "Midfield",
+                    "dateOfBirth": "2004-09-09",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 218389,
+                    "name": "Tika de Jonge",
+                    "position": "Midfield",
+                    "dateOfBirth": "2003-03-11",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 6367,
+                    "name": "Kevin van Veen",
+                    "position": "Offence",
+                    "dateOfBirth": "1991-06-01",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 80547,
+                    "name": "Florian Kr\u00fcger",
+                    "position": "Offence",
+                    "dateOfBirth": "1999-02-13",
+                    "nationality": "Germany"
+                },
+                {
+                    "id": 127032,
+                    "name": "Romano Postema",
+                    "position": "Offence",
+                    "dateOfBirth": "2002-02-07",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 188914,
+                    "name": "Thom van Bergen",
+                    "position": "Offence",
+                    "dateOfBirth": "2004-01-06",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 206792,
+                    "name": "Fofin Turay",
+                    "position": "Offence",
+                    "dateOfBirth": "2004-06-07",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 217530,
+                    "name": "Noam Emeran",
+                    "position": "Offence",
+                    "dateOfBirth": "2002-09-24",
+                    "nationality": "France"
+                },
+                {
+                    "id": 244847,
+                    "name": "Nils Eggens",
+                    "position": "Offence",
+                    "dateOfBirth": "2005-04-08",
+                    "nationality": "Netherlands"
+                }
+            ],
+            "staff": [],
+            "lastUpdated": "2022-03-22T10:10:56Z"
+        },
+        {
+            "area": {
+                "id": 2163,
+                "name": "Netherlands",
+                "code": "NLD",
+                "flag": "https://crests.football-data.org/8601.svg"
+            },
+            "id": 678,
+            "name": "AFC Ajax",
+            "shortName": "Ajax",
+            "tla": "AJA",
+            "crest": "https://crests.football-data.org/678.png",
+            "address": "ArenA Boulevard 29 Amsterdam 1101 AX",
+            "website": "http://www.ajax.nl",
+            "founded": 1900,
+            "clubColors": "Red / White",
+            "venue": "Johan Cruyff ArenA",
+            "runningCompetitions": [
+                {
+                    "id": 2180,
+                    "name": "Club Friendlies",
+                    "code": "CLF",
+                    "type": "PLAYOFFS",
+                    "emblem": null
+                },
+                {
+                    "id": 2003,
+                    "name": "Eredivisie",
+                    "code": "DED",
+                    "type": "LEAGUE",
+                    "emblem": "https://crests.football-data.org/ED.png"
+                }
+            ],
+            "coach": {
+                "id": 166183,
+                "firstName": "Francesco",
+                "lastName": "Farioli",
+                "name": "Francesco Farioli",
+                "dateOfBirth": "1989-04-10",
+                "nationality": "Italy",
+                "contract": {
+                    "start": "2024-07",
+                    "until": "2027-06"
+                }
+            },
+            "squad": [
+                {
+                    "id": 7578,
+                    "name": "Remko Pasveer",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "1983-11-08",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 117476,
+                    "name": "Diant Ramaj",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "2001-09-19",
+                    "nationality": "Germany"
+                },
+                {
+                    "id": 117505,
+                    "name": "Jay Gorter",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "2000-05-30",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 166154,
+                    "name": "Charlie Setford",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "2004-05-11",
+                    "nationality": "England"
+                },
+                {
+                    "id": 7679,
+                    "name": "Owen Wijndal",
+                    "position": "Defence",
+                    "dateOfBirth": "1999-11-28",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 115536,
+                    "name": "Sivert Mannsverk",
+                    "position": "Defence",
+                    "dateOfBirth": "2002-05-08",
+                    "nationality": "Norway"
+                },
+                {
+                    "id": 134835,
+                    "name": "Josip \u0160utalo",
+                    "position": "Defence",
+                    "dateOfBirth": "2000-02-28",
+                    "nationality": "Croatia"
+                },
+                {
+                    "id": 140850,
+                    "name": "Gast\u00f3n \u00c1vila",
+                    "position": "Defence",
+                    "dateOfBirth": "2001-09-30",
+                    "nationality": "Argentina"
+                },
+                {
+                    "id": 149173,
+                    "name": "Devyne Rensch",
+                    "position": "Defence",
+                    "dateOfBirth": "2003-01-18",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 150656,
+                    "name": "Ahmetcan Kaplan",
+                    "position": "Defence",
+                    "dateOfBirth": "2003-01-16",
+                    "nationality": "Turkey"
+                },
+                {
+                    "id": 156856,
+                    "name": "Youri Baas",
+                    "position": "Defence",
+                    "dateOfBirth": "2003-03-17",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 184716,
+                    "name": "Anton Gaaei",
+                    "position": "Defence",
+                    "dateOfBirth": "2002-11-19",
+                    "nationality": "Denmark"
+                },
+                {
+                    "id": 189477,
+                    "name": "Jorrel Hato",
+                    "position": "Defence",
+                    "dateOfBirth": "2006-03-07",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 217464,
+                    "name": "Dies Janse",
+                    "position": "Defence",
+                    "dateOfBirth": "2006-01-17",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 249025,
+                    "name": "Jorthy Mokio",
+                    "position": "Defence",
+                    "dateOfBirth": "2008-02-29",
+                    "nationality": "Belgium"
+                },
+                {
+                    "id": 3320,
+                    "name": "Jordan Henderson",
+                    "position": "Midfield",
+                    "dateOfBirth": "1990-06-17",
+                    "nationality": "England"
+                },
+                {
+                    "id": 7453,
+                    "name": "Steven Bergwijn",
+                    "position": "Midfield",
+                    "dateOfBirth": "1997-10-08",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 53397,
+                    "name": "Branco van den Boomen",
+                    "position": "Midfield",
+                    "dateOfBirth": "1995-07-21",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 97537,
+                    "name": "Kenneth Taylor",
+                    "position": "Midfield",
+                    "dateOfBirth": "2002-05-16",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 137026,
+                    "name": "Naci \u00dcn\u00fcvar",
+                    "position": "Midfield",
+                    "dateOfBirth": "2003-06-13",
+                    "nationality": "Turkey"
+                },
+                {
+                    "id": 157120,
+                    "name": "Kian Fitz-Jim",
+                    "position": "Midfield",
+                    "dateOfBirth": "2003-07-05",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 167635,
+                    "name": "Kristian Hlynsson",
+                    "position": "Midfield",
+                    "dateOfBirth": "2004-01-23",
+                    "nationality": "Iceland"
+                },
+                {
+                    "id": 168705,
+                    "name": "Amourricho van Axel Dongen",
+                    "position": "Midfield",
+                    "dateOfBirth": "2004-09-29",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 177330,
+                    "name": "Silvano Vos",
+                    "position": "Midfield",
+                    "dateOfBirth": "2005-03-16",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 189280,
+                    "name": "Benjamin Tahirovic",
+                    "position": "Midfield",
+                    "dateOfBirth": "2003-03-03",
+                    "nationality": "Bosnia-Herzegovina"
+                },
+                {
+                    "id": 189574,
+                    "name": "Mika Godts",
+                    "position": "Midfield",
+                    "dateOfBirth": "2005-06-07",
+                    "nationality": "Belgium"
+                },
+                {
+                    "id": 7478,
+                    "name": "Steven Berghuis",
+                    "position": "Offence",
+                    "dateOfBirth": "1991-12-19",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 9053,
+                    "name": "Chuba Akpom",
+                    "position": "Offence",
+                    "dateOfBirth": "1995-10-09",
+                    "nationality": "England"
+                },
+                {
+                    "id": 97535,
+                    "name": "Brian Brobbey",
+                    "position": "Offence",
+                    "dateOfBirth": "2002-02-01",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 149122,
+                    "name": "Christian Rasmussen",
+                    "position": "Offence",
+                    "dateOfBirth": "2003-01-19",
+                    "nationality": "Denmark"
+                },
+                {
+                    "id": 176952,
+                    "name": "Jaydon Banel",
+                    "position": "Offence",
+                    "dateOfBirth": "2004-10-19",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 213655,
+                    "name": "Julian Rijkhoff",
+                    "position": "Offence",
+                    "dateOfBirth": "2005-01-25",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 214423,
+                    "name": "Forbs",
+                    "position": "Offence",
+                    "dateOfBirth": "2004-03-19",
+                    "nationality": "Portugal"
+                },
+                {
+                    "id": 8467,
+                    "name": "Bertrand Traor\u00e9",
+                    "position": "Right Winger",
+                    "dateOfBirth": "1995-09-06",
+                    "nationality": "Burkina Faso"
+                },
+                {
+                    "id": 2027,
+                    "name": "Daniele Rugani",
+                    "position": "Centre-Back",
+                    "dateOfBirth": "1994-07-29",
+                    "nationality": "Italy"
+                }
+            ],
+            "staff": [],
+            "lastUpdated": "2022-03-22T10:11:05Z"
+        },
+        {
+            "area": {
+                "id": 2163,
+                "name": "Netherlands",
+                "code": "NLD",
+                "flag": "https://crests.football-data.org/8601.svg"
+            },
+            "id": 681,
+            "name": "NAC Breda",
+            "shortName": "NAC",
+            "tla": "NAC",
+            "crest": "https://crests.football-data.org/681.png",
+            "address": "Postbus 3356 Breda 4800 DJ",
+            "website": "http://www.nac.nl",
+            "founded": 1912,
+            "clubColors": "Yellow / White / Black",
+            "venue": "Rat Verlegh Stadion",
+            "runningCompetitions": [
+                {
+                    "id": 2180,
+                    "name": "Club Friendlies",
+                    "code": "CLF",
+                    "type": "PLAYOFFS",
+                    "emblem": null
+                },
+                {
+                    "id": 2003,
+                    "name": "Eredivisie",
+                    "code": "DED",
+                    "type": "LEAGUE",
+                    "emblem": "https://crests.football-data.org/ED.png"
+                }
+            ],
+            "coach": {
+                "id": 186524,
+                "firstName": "Carl",
+                "lastName": "Hoefkens",
+                "name": "Carl Hoefkens",
+                "dateOfBirth": "1978-10-06",
+                "nationality": "Belgium",
+                "contract": {
+                    "start": "2024-07",
+                    "until": "2027-06"
+                }
+            },
+            "squad": [
+                {
+                    "id": 7738,
+                    "name": "Roy Kortsmit",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "1992-08-26",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 84069,
+                    "name": "Daniel Bielica",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "1999-04-30",
+                    "nationality": "Poland"
+                },
+                {
+                    "id": 154113,
+                    "name": "Aron Van Lare",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "2003-01-05",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 157144,
+                    "name": "Tein Troost",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "2002-01-15",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 7291,
+                    "name": "Clint Leemans",
+                    "position": "Defence",
+                    "dateOfBirth": "1995-09-15",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 7590,
+                    "name": "Boyd Lucassen",
+                    "position": "Defence",
+                    "dateOfBirth": "1998-07-01",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 16818,
+                    "name": "Jan Van den Bergh",
+                    "position": "Defence",
+                    "dateOfBirth": "1994-10-02",
+                    "nationality": "Belgium"
+                },
+                {
+                    "id": 67887,
+                    "name": "Boy Kemper",
+                    "position": "Defence",
+                    "dateOfBirth": "1999-06-21",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 73023,
+                    "name": "Martin Kosceln\u00edk",
+                    "position": "Defence",
+                    "dateOfBirth": "1995-03-02",
+                    "nationality": "Slovakia"
+                },
+                {
+                    "id": 80767,
+                    "name": "Enes Mahmutovi\u0107",
+                    "position": "Defence",
+                    "dateOfBirth": "1997-05-22",
+                    "nationality": "Luxembourg"
+                },
+                {
+                    "id": 99195,
+                    "name": "Leo Greiml",
+                    "position": "Defence",
+                    "dateOfBirth": "2001-07-03",
+                    "nationality": "Austria"
+                },
+                {
+                    "id": 121788,
+                    "name": "Manel Royo",
+                    "position": "Defence",
+                    "dateOfBirth": "1994-02-28",
+                    "nationality": "Spain"
+                },
+                {
+                    "id": 245796,
+                    "name": "Cherrion Valerius",
+                    "position": "Defence",
+                    "dateOfBirth": "2005-09-22",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 263454,
+                    "name": "Daan van Reeuwijk",
+                    "position": "Defence",
+                    "dateOfBirth": null,
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 9299,
+                    "name": "Fredrik Jensen",
+                    "position": "Midfield",
+                    "dateOfBirth": "1993-05-18",
+                    "nationality": "Norway"
+                },
+                {
+                    "id": 62749,
+                    "name": "Dominik Jano\u0161ek",
+                    "position": "Midfield",
+                    "dateOfBirth": "1998-06-13",
+                    "nationality": "Czech Republic"
+                },
+                {
+                    "id": 63891,
+                    "name": "Kacper Kostorz",
+                    "position": "Midfield",
+                    "dateOfBirth": "1999-08-21",
+                    "nationality": "Poland"
+                },
+                {
+                    "id": 150572,
+                    "name": "Casper Staring",
+                    "position": "Midfield",
+                    "dateOfBirth": "2001-02-01",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 180601,
+                    "name": "Adam Kaied",
+                    "position": "Midfield",
+                    "dateOfBirth": "2002-03-02",
+                    "nationality": "Sweden"
+                },
+                {
+                    "id": 181154,
+                    "name": "Max Balard",
+                    "position": "Midfield",
+                    "dateOfBirth": "2000-11-20",
+                    "nationality": "Australia"
+                },
+                {
+                    "id": 185023,
+                    "name": "Matthew Garbett",
+                    "position": "Midfield",
+                    "dateOfBirth": "2002-04-13",
+                    "nationality": "New Zealand"
+                },
+                {
+                    "id": 214587,
+                    "name": "Leo Sauer",
+                    "position": "Midfield",
+                    "dateOfBirth": "2005-12-16",
+                    "nationality": "Slovakia"
+                },
+                {
+                    "id": 215464,
+                    "name": "Lars Mol",
+                    "position": "Midfield",
+                    "dateOfBirth": "2004-09-15",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 7277,
+                    "name": "Tom Boere",
+                    "position": "Offence",
+                    "dateOfBirth": "1992-11-24",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 31023,
+                    "name": "El\u00edas M\u00e1r \u00d3marsson",
+                    "position": "Offence",
+                    "dateOfBirth": "1995-01-18",
+                    "nationality": "Iceland"
+                },
+                {
+                    "id": 157450,
+                    "name": "Roy Kuijpers",
+                    "position": "Offence",
+                    "dateOfBirth": "2000-01-17",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 190898,
+                    "name": "Aime Omgba",
+                    "position": "Offence",
+                    "dateOfBirth": "2002-10-22",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 217916,
+                    "name": "San\u00e1 Fernandes",
+                    "position": "Left Winger",
+                    "dateOfBirth": "2006-03-10",
+                    "nationality": "Portugal"
+                },
+                {
+                    "id": 193091,
+                    "name": "Raul Paula",
+                    "position": "Attacking Midfield",
+                    "dateOfBirth": "1976-06-26",
+                    "nationality": "Germany"
+                }
+            ],
+            "staff": [],
+            "lastUpdated": "2022-03-23T08:30:12Z"
+        },
+        {
+            "area": {
+                "id": 2163,
+                "name": "Netherlands",
+                "code": "NLD",
+                "flag": "https://crests.football-data.org/8601.svg"
+            },
+            "id": 682,
+            "name": "AZ",
+            "shortName": "AZ",
+            "tla": "AZ",
+            "crest": "https://crests.football-data.org/682.png",
+            "address": "Stadionweg 1 Alkmaar 1812 AZ",
+            "website": "http://www.az.nl",
+            "founded": 1967,
+            "clubColors": "Red / White",
+            "venue": "AFAS Stadion",
+            "runningCompetitions": [
+                {
+                    "id": 2180,
+                    "name": "Club Friendlies",
+                    "code": "CLF",
+                    "type": "PLAYOFFS",
+                    "emblem": null
+                },
+                {
+                    "id": 2003,
+                    "name": "Eredivisie",
+                    "code": "DED",
+                    "type": "LEAGUE",
+                    "emblem": "https://crests.football-data.org/ED.png"
+                }
+            ],
+            "coach": {
+                "id": 160951,
+                "firstName": "Maarten",
+                "lastName": "Martens",
+                "name": "Maarten Martens",
+                "dateOfBirth": "1984-07-02",
+                "nationality": "Belgium",
+                "contract": {
+                    "start": "2024-01",
+                    "until": "2026-06"
+                }
+            },
+            "squad": [
+                {
+                    "id": 7433,
+                    "name": "Jeroen Zoet",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "1991-01-06",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 53417,
+                    "name": "Hobie Verhulst",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "1993-04-02",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 149175,
+                    "name": "Sem Westerveld",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "2002-07-18",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 150752,
+                    "name": "Daniel Deen",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "2003-02-13",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 182029,
+                    "name": "Rome Owusu-Oduro",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "2004-07-02",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 7949,
+                    "name": "Bruno Martins Indi",
+                    "position": "Defence",
+                    "dateOfBirth": "1992-02-08",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 9428,
+                    "name": "Riechedly Bazoer",
+                    "position": "Defence",
+                    "dateOfBirth": "1996-10-12",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 67899,
+                    "name": "Mees De Wit",
+                    "position": "Defence",
+                    "dateOfBirth": "1998-04-17",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 136163,
+                    "name": "Denso Kasius",
+                    "position": "Defence",
+                    "dateOfBirth": "2002-10-06",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 142616,
+                    "name": "Seiya Maikuma",
+                    "position": "Defence",
+                    "dateOfBirth": "1997-10-16",
+                    "nationality": "Japan"
+                },
+                {
+                    "id": 166900,
+                    "name": "Alexandre Penetra",
+                    "position": "Defence",
+                    "dateOfBirth": "2001-09-09",
+                    "nationality": "Portugal"
+                },
+                {
+                    "id": 171428,
+                    "name": "Maxim Dekker",
+                    "position": "Defence",
+                    "dateOfBirth": "2004-04-21",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 175823,
+                    "name": "Wouter Goes",
+                    "position": "Defence",
+                    "dateOfBirth": "2004-06-10",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 205467,
+                    "name": "David Wolfe",
+                    "position": "Defence",
+                    "dateOfBirth": "2002-04-23",
+                    "nationality": "Norway"
+                },
+                {
+                    "id": 8886,
+                    "name": "Jordy Clasie",
+                    "position": "Midfield",
+                    "dateOfBirth": "1991-06-27",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 81552,
+                    "name": "Peer Koopmeiners",
+                    "position": "Midfield",
+                    "dateOfBirth": "2000-05-04",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 115116,
+                    "name": "Sven Mijnans",
+                    "position": "Midfield",
+                    "dateOfBirth": "2000-03-09",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 146022,
+                    "name": "Mayckel Lahdo",
+                    "position": "Midfield",
+                    "dateOfBirth": "2002-12-30",
+                    "nationality": "Sweden"
+                },
+                {
+                    "id": 149178,
+                    "name": "Zico Buurmeester",
+                    "position": "Midfield",
+                    "dateOfBirth": "2002-06-07",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 177064,
+                    "name": "Lewis Schouten",
+                    "position": "Midfield",
+                    "dateOfBirth": "2004-02-04",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 187095,
+                    "name": "Kristijan Belic",
+                    "position": "Midfield",
+                    "dateOfBirth": "2001-05-25",
+                    "nationality": "Serbia"
+                },
+                {
+                    "id": 188075,
+                    "name": "Dave Kwakman",
+                    "position": "Midfield",
+                    "dateOfBirth": "2004-08-07",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 191223,
+                    "name": "Kees Smit",
+                    "position": "Midfield",
+                    "dateOfBirth": "2006-01-21",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 72536,
+                    "name": "Ibrahim Sadiq",
+                    "position": "Offence",
+                    "dateOfBirth": "2000-05-07",
+                    "nationality": "Ghana"
+                },
+                {
+                    "id": 131041,
+                    "name": "Troy Parrott",
+                    "position": "Offence",
+                    "dateOfBirth": "2002-02-04",
+                    "nationality": "Ireland"
+                },
+                {
+                    "id": 152713,
+                    "name": "Myron van Brederode",
+                    "position": "Offence",
+                    "dateOfBirth": "2003-07-06",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 167699,
+                    "name": "Lequincio Zeefuik",
+                    "position": "Offence",
+                    "dateOfBirth": "2004-11-26",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 167793,
+                    "name": "Ernest Poku",
+                    "position": "Offence",
+                    "dateOfBirth": "2004-01-28",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 176746,
+                    "name": "Mexx Meerdink",
+                    "position": "Offence",
+                    "dateOfBirth": "2003-07-24",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 178165,
+                    "name": "Jayden Addai",
+                    "position": "Offence",
+                    "dateOfBirth": "2005-08-26",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 181984,
+                    "name": "Ruben van Bommel",
+                    "position": "Offence",
+                    "dateOfBirth": "2004-08-03",
+                    "nationality": "Netherlands"
+                }
+            ],
+            "staff": [],
+            "lastUpdated": "2022-03-22T10:11:18Z"
+        },
+        {
+            "area": {
+                "id": 2163,
+                "name": "Netherlands",
+                "code": "NLD",
+                "flag": "https://crests.football-data.org/8601.svg"
+            },
+            "id": 683,
+            "name": "RKC Waalwijk",
+            "shortName": "RKC",
+            "tla": "RKC",
+            "crest": "https://crests.football-data.org/683.png",
+            "address": "Akkerlaan 2 Waalwijk 5143 ND",
+            "website": "http://www.rkcwaalwijk.nl",
+            "founded": 1940,
+            "clubColors": "Yellow / Blue",
+            "venue": "Mandemakers Stadion",
+            "runningCompetitions": [
+                {
+                    "id": 2180,
+                    "name": "Club Friendlies",
+                    "code": "CLF",
+                    "type": "PLAYOFFS",
+                    "emblem": null
+                },
+                {
+                    "id": 2003,
+                    "name": "Eredivisie",
+                    "code": "DED",
+                    "type": "LEAGUE",
+                    "emblem": "https://crests.football-data.org/ED.png"
+                }
+            ],
+            "coach": {
+                "id": 9586,
+                "firstName": "Henk",
+                "lastName": "Fraser",
+                "name": "Henk Fraser",
+                "dateOfBirth": "1966-07-07",
+                "nationality": "Netherlands",
+                "contract": {
+                    "start": "2023-07",
+                    "until": "2025-06"
+                }
+            },
+            "squad": [
+                {
+                    "id": 7435,
+                    "name": "Yanick van Osch",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "1997-03-24",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 7575,
+                    "name": "Jeroen Houwen",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "1996-02-18",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 176626,
+                    "name": "Joey Kesting",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "2001-03-07",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 214676,
+                    "name": "Luuk Vogels",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "2003-07-06",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 7229,
+                    "name": "Roshon van Eijma",
+                    "position": "Defence",
+                    "dateOfBirth": "1998-06-09",
+                    "nationality": "Cura\u00e7ao"
+                },
+                {
+                    "id": 7353,
+                    "name": "Dario Van den Buijs",
+                    "position": "Defence",
+                    "dateOfBirth": "1995-09-12",
+                    "nationality": "Belgium"
+                },
+                {
+                    "id": 7584,
+                    "name": "Julian Lelieveld",
+                    "position": "Defence",
+                    "dateOfBirth": "1997-11-24",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 7623,
+                    "name": "Aaron Meijers",
+                    "position": "Defence",
+                    "dateOfBirth": "1987-10-28",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 99023,
+                    "name": "Liam van Gelderen",
+                    "position": "Defence",
+                    "dateOfBirth": "2001-03-23",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 150631,
+                    "name": "Luuk Wouters",
+                    "position": "Defence",
+                    "dateOfBirth": "1999-06-08",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 260720,
+                    "name": "Juan Familia-Castillo",
+                    "position": "Defence",
+                    "dateOfBirth": "2000-01-13",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 7274,
+                    "name": "Godfried Roemeratoe",
+                    "position": "Midfield",
+                    "dateOfBirth": "1999-08-19",
+                    "nationality": "Cura\u00e7ao"
+                },
+                {
+                    "id": 7359,
+                    "name": "Reuven Niemeijer",
+                    "position": "Midfield",
+                    "dateOfBirth": "1995-03-27",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 31126,
+                    "name": "Alexander Jakobsen",
+                    "position": "Midfield",
+                    "dateOfBirth": "1994-03-18",
+                    "nationality": "Egypt"
+                },
+                {
+                    "id": 53327,
+                    "name": "Kevin Felida",
+                    "position": "Midfield",
+                    "dateOfBirth": "1999-11-11",
+                    "nationality": "Cura\u00e7ao"
+                },
+                {
+                    "id": 53358,
+                    "name": "Richard van der Venne",
+                    "position": "Midfield",
+                    "dateOfBirth": "1992-05-16",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 102404,
+                    "name": "Richonell Margaret",
+                    "position": "Midfield",
+                    "dateOfBirth": "2000-07-07",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 125693,
+                    "name": "Patrick Vroegh",
+                    "position": "Midfield",
+                    "dateOfBirth": "1999-11-29",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 137048,
+                    "name": "Yassin Oukili",
+                    "position": "Midfield",
+                    "dateOfBirth": "2001-01-03",
+                    "nationality": "Morocco"
+                },
+                {
+                    "id": 190922,
+                    "name": "Chris Lokesa",
+                    "position": "Midfield",
+                    "dateOfBirth": "2004-11-07",
+                    "nationality": "Belgium"
+                },
+                {
+                    "id": 215422,
+                    "name": "Tim van de Loo",
+                    "position": "Midfield",
+                    "dateOfBirth": "2003-03-22",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 215565,
+                    "name": "Nouri El Harmazi",
+                    "position": "Midfield",
+                    "dateOfBirth": "2002-05-15",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 217937,
+                    "name": "Daouda Weidmann",
+                    "position": "Midfield",
+                    "dateOfBirth": "2003-05-04",
+                    "nationality": "France"
+                },
+                {
+                    "id": 7776,
+                    "name": "Michiel Kramer",
+                    "position": "Offence",
+                    "dateOfBirth": "1988-12-03",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 130179,
+                    "name": "Ilias Takidine",
+                    "position": "Offence",
+                    "dateOfBirth": "2001-02-05",
+                    "nationality": "Belgium"
+                },
+                {
+                    "id": 133967,
+                    "name": "Denilho Cleonise",
+                    "position": "Offence",
+                    "dateOfBirth": "2001-12-08",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 188950,
+                    "name": "Oskar Zawada",
+                    "position": "Offence",
+                    "dateOfBirth": "2004-06-05",
+                    "nationality": "Poland"
+                }
+            ],
+            "staff": [],
+            "lastUpdated": "2022-03-22T10:11:27Z"
+        },
+        {
+            "area": {
+                "id": 2163,
+                "name": "Netherlands",
+                "code": "NLD",
+                "flag": "https://crests.football-data.org/8601.svg"
+            },
+            "id": 684,
+            "name": "PEC Zwolle",
+            "shortName": "Zwolle",
+            "tla": "ZWO",
+            "crest": "https://crests.football-data.org/684.png",
+            "address": "Stadionplein 1 Zwolle 8025 CP",
+            "website": "http://www.peczwolle.nl",
+            "founded": 1910,
+            "clubColors": "Blue / White",
+            "venue": "MAC\u00b3PARK Stadion",
+            "runningCompetitions": [
+                {
+                    "id": 2180,
+                    "name": "Club Friendlies",
+                    "code": "CLF",
+                    "type": "PLAYOFFS",
+                    "emblem": null
+                },
+                {
+                    "id": 2003,
+                    "name": "Eredivisie",
+                    "code": "DED",
+                    "type": "LEAGUE",
+                    "emblem": "https://crests.football-data.org/ED.png"
+                }
+            ],
+            "coach": {
+                "id": 116263,
+                "firstName": "Johnny",
+                "lastName": "Jansen",
+                "name": "Johnny Jansen",
+                "dateOfBirth": "1975-03-02",
+                "nationality": "Netherlands",
+                "contract": {
+                    "start": "2023-07",
+                    "until": "2025-06"
+                }
+            },
+            "squad": [
+                {
+                    "id": 7705,
+                    "name": "Mike Hauptmeijer",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "1997-03-18",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 8868,
+                    "name": "Kenneth Vermeer",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "1986-01-10",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 67905,
+                    "name": "Jasper Schendelaar",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "2000-09-02",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 186393,
+                    "name": "Duke Verduin",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "2003-10-30",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 123291,
+                    "name": "Thierry Lutonda",
+                    "position": "Defence",
+                    "dateOfBirth": "2000-10-27",
+                    "nationality": "Belgium"
+                },
+                {
+                    "id": 151283,
+                    "name": "Anselmo MacNulty",
+                    "position": "Defence",
+                    "dateOfBirth": "2003-02-19",
+                    "nationality": "Ireland"
+                },
+                {
+                    "id": 171274,
+                    "name": "Anouar El Azzouzi",
+                    "position": "Defence",
+                    "dateOfBirth": "2001-05-29",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 176994,
+                    "name": "Damian van der Haar",
+                    "position": "Defence",
+                    "dateOfBirth": "2004-01-01",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 177978,
+                    "name": "Tristan Gooijer",
+                    "position": "Defence",
+                    "dateOfBirth": "2004-09-02",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 202714,
+                    "name": "Simon Graves",
+                    "position": "Defence",
+                    "dateOfBirth": "1999-05-22",
+                    "nationality": "Denmark"
+                },
+                {
+                    "id": 245874,
+                    "name": "Dylan Ruward",
+                    "position": "Defence",
+                    "dateOfBirth": null,
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 7499,
+                    "name": "Odysseus Velanas",
+                    "position": "Midfield",
+                    "dateOfBirth": "1998-06-05",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 7723,
+                    "name": "Ryan Thomas",
+                    "position": "Midfield",
+                    "dateOfBirth": "1994-12-20",
+                    "nationality": "New Zealand"
+                },
+                {
+                    "id": 21054,
+                    "name": "Filip Krastev",
+                    "position": "Midfield",
+                    "dateOfBirth": "2001-10-15",
+                    "nationality": "Bulgaria"
+                },
+                {
+                    "id": 58329,
+                    "name": "Braydon Manu",
+                    "position": "Midfield",
+                    "dateOfBirth": "1997-03-28",
+                    "nationality": "Ghana"
+                },
+                {
+                    "id": 77675,
+                    "name": "Anthony Fontana",
+                    "position": "Midfield",
+                    "dateOfBirth": "1999-10-14",
+                    "nationality": "USA"
+                },
+                {
+                    "id": 113906,
+                    "name": "Dylan Mbayo",
+                    "position": "Midfield",
+                    "dateOfBirth": "2001-10-11",
+                    "nationality": "Belgium"
+                },
+                {
+                    "id": 152571,
+                    "name": "Samir Lagsir",
+                    "position": "Midfield",
+                    "dateOfBirth": "2003-05-20",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 214428,
+                    "name": "Nick Fichtinger",
+                    "position": "Midfield",
+                    "dateOfBirth": null,
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 221824,
+                    "name": "Mohamed Oukhattou",
+                    "position": "Midfield",
+                    "dateOfBirth": "2005-01-22",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 245913,
+                    "name": "Teun Gijselhart",
+                    "position": "Midfield",
+                    "dateOfBirth": "2005-04-06",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 7312,
+                    "name": "Lennart Thy",
+                    "position": "Offence",
+                    "dateOfBirth": "1992-02-25",
+                    "nationality": "Germany"
+                },
+                {
+                    "id": 7476,
+                    "name": "Dylan Vente",
+                    "position": "Offence",
+                    "dateOfBirth": "1999-05-09",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 7607,
+                    "name": "Thomas Buitink",
+                    "position": "Offence",
+                    "dateOfBirth": "2000-06-14",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 53412,
+                    "name": "Kaj de Rooij",
+                    "position": "Offence",
+                    "dateOfBirth": "2000-11-25",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 98353,
+                    "name": "Eliano Reijnders",
+                    "position": "Offence",
+                    "dateOfBirth": "2000-10-23",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 133191,
+                    "name": "Davy van den Berg",
+                    "position": "Offence",
+                    "dateOfBirth": "2000-02-04",
+                    "nationality": "Netherlands"
+                }
+            ],
+            "staff": [],
+            "lastUpdated": "2022-03-22T10:11:39Z"
+        },
+        {
+            "area": {
+                "id": 2163,
+                "name": "Netherlands",
+                "code": "NLD",
+                "flag": "https://crests.football-data.org/8601.svg"
+            },
+            "id": 718,
+            "name": "Go Ahead Eagles",
+            "shortName": "Go Ahead",
+            "tla": "GOA",
+            "crest": "https://crests.football-data.org/718.png",
+            "address": "Vetkampstraat 1 Deventer 7416 WK",
+            "website": "http://www.ga-eagles.nl",
+            "founded": 1902,
+            "clubColors": "Red / Yellow",
+            "venue": "De Adelaarshorst",
+            "runningCompetitions": [
+                {
+                    "id": 2180,
+                    "name": "Club Friendlies",
+                    "code": "CLF",
+                    "type": "PLAYOFFS",
+                    "emblem": null
+                },
+                {
+                    "id": 2003,
+                    "name": "Eredivisie",
+                    "code": "DED",
+                    "type": "LEAGUE",
+                    "emblem": "https://crests.football-data.org/ED.png"
+                }
+            ],
+            "coach": {
+                "id": 179523,
+                "firstName": "Paul",
+                "lastName": "Simonis",
+                "name": "Paul Simonis",
+                "dateOfBirth": "1985-02-14",
+                "nationality": "Netherlands",
+                "contract": {
+                    "start": "2024-07",
+                    "until": "2026-06"
+                }
+            },
+            "squad": [
+                {
+                    "id": 17014,
+                    "name": "Jari De Busser",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "1999-10-21",
+                    "nationality": "Belgium"
+                },
+                {
+                    "id": 56849,
+                    "name": "Luca Plogmann",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "2000-03-10",
+                    "nationality": "Germany"
+                },
+                {
+                    "id": 177271,
+                    "name": "Nando Verdoni",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "2004-09-27",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 7682,
+                    "name": "Joris Kramer",
+                    "position": "Defence",
+                    "dateOfBirth": "1996-08-02",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 9931,
+                    "name": "Gerrit Nauber",
+                    "position": "Defence",
+                    "dateOfBirth": "1992-04-13",
+                    "nationality": "Germany"
+                },
+                {
+                    "id": 53317,
+                    "name": "Mats Deijl",
+                    "position": "Defence",
+                    "dateOfBirth": "1997-07-15",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 114742,
+                    "name": "Enric Llansana",
+                    "position": "Defence",
+                    "dateOfBirth": "2001-04-12",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 149091,
+                    "name": "Dean James",
+                    "position": "Defence",
+                    "dateOfBirth": "2000-04-30",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 150601,
+                    "name": "Jamal Amofa",
+                    "position": "Defence",
+                    "dateOfBirth": "1998-11-25",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 154572,
+                    "name": "Sven Jansen",
+                    "position": "Defence",
+                    "dateOfBirth": "2004-10-23",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 157121,
+                    "name": "Julius Dirksen",
+                    "position": "Defence",
+                    "dateOfBirth": "2003-02-02",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 171846,
+                    "name": "Luca Everink",
+                    "position": "Defence",
+                    "dateOfBirth": "2001-02-09",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 186571,
+                    "name": "Aske Adelgaard",
+                    "position": "Defence",
+                    "dateOfBirth": "2003-11-10",
+                    "nationality": "Denmark"
+                },
+                {
+                    "id": 187178,
+                    "name": "Pim Saathof",
+                    "position": "Defence",
+                    "dateOfBirth": "2003-12-28",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 188472,
+                    "name": "Maurilio de Lannoy",
+                    "position": "Defence",
+                    "dateOfBirth": "2003-11-07",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 262355,
+                    "name": "Donte Apinsa",
+                    "position": "Defence",
+                    "dateOfBirth": "2005-01-07",
+                    "nationality": "Suriname"
+                },
+                {
+                    "id": 7303,
+                    "name": "Evert Linthorst",
+                    "position": "Midfield",
+                    "dateOfBirth": "2000-03-03",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 111229,
+                    "name": "Oliver Antman",
+                    "position": "Midfield",
+                    "dateOfBirth": "2001-08-15",
+                    "nationality": "Finland"
+                },
+                {
+                    "id": 152412,
+                    "name": "Calvin Twigt",
+                    "position": "Midfield",
+                    "dateOfBirth": "2003-01-30",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 187185,
+                    "name": "Robbin Weijenberg",
+                    "position": "Midfield",
+                    "dateOfBirth": "2001-05-21",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 228086,
+                    "name": "Dielan Ghafour",
+                    "position": "Midfield",
+                    "dateOfBirth": null,
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 262354,
+                    "name": "Donte Aspinsa",
+                    "position": "Midfield",
+                    "dateOfBirth": null,
+                    "nationality": "Suriname"
+                },
+                {
+                    "id": 53490,
+                    "name": "Finn Stokkers",
+                    "position": "Offence",
+                    "dateOfBirth": "1996-04-18",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 121280,
+                    "name": "S\u00f8ren Tengstedt",
+                    "position": "Offence",
+                    "dateOfBirth": "2000-06-30",
+                    "nationality": "Denmark"
+                },
+                {
+                    "id": 128039,
+                    "name": "Bobby Adekanye",
+                    "position": "Offence",
+                    "dateOfBirth": "1999-02-14",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 130053,
+                    "name": "Oliver Edvardsen",
+                    "position": "Offence",
+                    "dateOfBirth": "1999-03-19",
+                    "nationality": "Norway"
+                },
+                {
+                    "id": 144367,
+                    "name": "Jakob Breum",
+                    "position": "Offence",
+                    "dateOfBirth": "2003-11-17",
+                    "nationality": "Denmark"
+                },
+                {
+                    "id": 144445,
+                    "name": "Victor Edvardsen",
+                    "position": "Offence",
+                    "dateOfBirth": "1996-01-14",
+                    "nationality": "Sweden"
+                },
+                {
+                    "id": 147764,
+                    "name": "Thibo Baeten",
+                    "position": "Offence",
+                    "dateOfBirth": "2002-06-04",
+                    "nationality": "Belgium"
+                },
+                {
+                    "id": 151613,
+                    "name": "Mathis Suray",
+                    "position": "Offence",
+                    "dateOfBirth": "2001-07-26",
+                    "nationality": "Belgium"
+                }
+            ],
+            "staff": [],
+            "lastUpdated": "2022-03-22T10:09:14Z"
+        },
+        {
+            "area": {
+                "id": 2163,
+                "name": "Netherlands",
+                "code": "NLD",
+                "flag": "https://crests.football-data.org/8601.svg"
+            },
+            "id": 1911,
+            "name": "Almere City FC",
+            "shortName": "Almere City",
+            "tla": "ALM",
+            "crest": "https://crests.football-data.org/1911.png",
+            "address": "Competitieweg 22 Almere 1318 EA",
+            "website": "http://www.almerecity.nl",
+            "founded": 1972,
+            "clubColors": "Black / Red",
+            "venue": "Yanmar Stadion",
+            "runningCompetitions": [
+                {
+                    "id": 2180,
+                    "name": "Club Friendlies",
+                    "code": "CLF",
+                    "type": "PLAYOFFS",
+                    "emblem": null
+                },
+                {
+                    "id": 2003,
+                    "name": "Eredivisie",
+                    "code": "DED",
+                    "type": "LEAGUE",
+                    "emblem": "https://crests.football-data.org/ED.png"
+                }
+            ],
+            "coach": {
+                "id": 194448,
+                "firstName": "Hedwiges",
+                "lastName": "Maduro",
+                "name": "Hedwiges Maduro",
+                "dateOfBirth": "1985-02-13",
+                "nationality": "Netherlands",
+                "contract": {
+                    "start": "2024-07",
+                    "until": "2026-06"
+                }
+            },
+            "squad": [
+                {
+                    "id": 83745,
+                    "name": "Jonas Wendlinger",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "2000-07-17",
+                    "nationality": "Austria"
+                },
+                {
+                    "id": 91983,
+                    "name": "Nordin Bakker",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "1997-10-31",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 128449,
+                    "name": "Stijn Keller",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "2000-04-10",
+                    "nationality": "Switzerland"
+                },
+                {
+                    "id": 214572,
+                    "name": "Jo\u00ebl van der Wilt",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "2004-04-27",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 7744,
+                    "name": "Sheral Floranus",
+                    "position": "Defence",
+                    "dateOfBirth": "1998-08-23",
+                    "nationality": "Cura\u00e7ao"
+                },
+                {
+                    "id": 45106,
+                    "name": "Th\u00e9o Barbet",
+                    "position": "Defence",
+                    "dateOfBirth": "2001-03-06",
+                    "nationality": "France"
+                },
+                {
+                    "id": 67912,
+                    "name": "Joey Jacobs",
+                    "position": "Defence",
+                    "dateOfBirth": "2000-04-10",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 124776,
+                    "name": "Hamdi Akujobi",
+                    "position": "Defence",
+                    "dateOfBirth": "2000-01-20",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 171953,
+                    "name": "Christopher Mamengi",
+                    "position": "Defence",
+                    "dateOfBirth": "2001-04-03",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 188414,
+                    "name": "Jaden Pinas",
+                    "position": "Defence",
+                    "dateOfBirth": "2003-12-28",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 517,
+                    "name": "Thomas Robinet",
+                    "position": "Midfield",
+                    "dateOfBirth": "1996-08-18",
+                    "nationality": "France"
+                },
+                {
+                    "id": 32999,
+                    "name": "\u00c0lex Carbonell",
+                    "position": "Midfield",
+                    "dateOfBirth": "1997-09-15",
+                    "nationality": "Spain"
+                },
+                {
+                    "id": 151704,
+                    "name": "Guus Beaumont",
+                    "position": "Midfield",
+                    "dateOfBirth": "2002-05-10",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 154590,
+                    "name": "Stije Resink",
+                    "position": "Midfield",
+                    "dateOfBirth": "2003-05-28",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 170390,
+                    "name": "Logan Delaurier-Chaubet",
+                    "position": "Midfield",
+                    "dateOfBirth": "2002-04-22",
+                    "nationality": "France"
+                },
+                {
+                    "id": 171422,
+                    "name": "Jeffry Puriel",
+                    "position": "Midfield",
+                    "dateOfBirth": "2002-11-16",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 176696,
+                    "name": "Alex Balboa",
+                    "position": "Midfield",
+                    "dateOfBirth": "2001-03-06",
+                    "nationality": "Equatorial Guinea"
+                },
+                {
+                    "id": 211708,
+                    "name": "Jochem Ritmeester van de Kamp",
+                    "position": "Midfield",
+                    "dateOfBirth": "2003-11-02",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 254534,
+                    "name": "Marley Dors",
+                    "position": "Midfield",
+                    "dateOfBirth": "2005-06-11",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 8657,
+                    "name": "Baptiste Guillaume",
+                    "position": "Offence",
+                    "dateOfBirth": "1995-06-16",
+                    "nationality": "Belgium"
+                },
+                {
+                    "id": 31507,
+                    "name": "Adi Nalic",
+                    "position": "Offence",
+                    "dateOfBirth": "1997-12-01",
+                    "nationality": "Bosnia-Herzegovina"
+                },
+                {
+                    "id": 136036,
+                    "name": "Fa\u00efz Mattoir",
+                    "position": "Offence",
+                    "dateOfBirth": "2000-07-12",
+                    "nationality": "Comoros"
+                },
+                {
+                    "id": 144657,
+                    "name": "Kornelius Hansen",
+                    "position": "Offence",
+                    "dateOfBirth": "2001-05-06",
+                    "nationality": "Norway"
+                },
+                {
+                    "id": 254556,
+                    "name": "Emanuel Poku",
+                    "position": "Offence",
+                    "dateOfBirth": null,
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 146101,
+                    "name": "Ricardo Visus",
+                    "position": "Centre-Back",
+                    "dateOfBirth": "2001-04-24",
+                    "nationality": "Spain"
+                },
+                {
+                    "id": 127930,
+                    "name": "Vasilios Zagaritis",
+                    "position": "Left-Back",
+                    "dateOfBirth": "2001-05-04",
+                    "nationality": "Greece"
+                }
+            ],
+            "staff": [],
+            "lastUpdated": "2022-09-25T07:40:45Z"
+        },
+        {
+            "area": {
+                "id": 2163,
+                "name": "Netherlands",
+                "code": "NLD",
+                "flag": "https://crests.football-data.org/8601.svg"
+            },
+            "id": 1915,
+            "name": "NEC",
+            "shortName": "NEC",
+            "tla": "NEC",
+            "crest": "https://crests.football-data.org/1915.png",
+            "address": "Stadionplein 1 Nijmegen 6532 AJ",
+            "website": "http://www.nec-nijmegen.nl",
+            "founded": 1900,
+            "clubColors": "Red / Green / Black",
+            "venue": "Goffertstadion",
+            "runningCompetitions": [
+                {
+                    "id": 2180,
+                    "name": "Club Friendlies",
+                    "code": "CLF",
+                    "type": "PLAYOFFS",
+                    "emblem": null
+                },
+                {
+                    "id": 2003,
+                    "name": "Eredivisie",
+                    "code": "DED",
+                    "type": "LEAGUE",
+                    "emblem": "https://crests.football-data.org/ED.png"
+                }
+            ],
+            "coach": {
+                "id": 149034,
+                "firstName": "Rogier",
+                "lastName": "Meijer",
+                "name": "Rogier Meijer",
+                "dateOfBirth": "1981-09-05",
+                "nationality": "Netherlands",
+                "contract": {
+                    "start": "2020-06",
+                    "until": "2025-06"
+                }
+            },
+            "squad": [
+                {
+                    "id": 53496,
+                    "name": "Stijn van Gassel",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "1996-10-18",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 137691,
+                    "name": "Robin Roefs",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "2003-01-17",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 176714,
+                    "name": "Rijk Janse",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "2002-04-16",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 2119,
+                    "name": "Bram Nuytinck",
+                    "position": "Defence",
+                    "dateOfBirth": "1990-05-04",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 7685,
+                    "name": "Thomas Ouwejan",
+                    "position": "Defence",
+                    "dateOfBirth": "1996-09-30",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 7726,
+                    "name": "Philippe Sandler",
+                    "position": "Defence",
+                    "dateOfBirth": "1997-02-10",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 9861,
+                    "name": "Calvin Verdonk",
+                    "position": "Defence",
+                    "dateOfBirth": "1997-04-26",
+                    "nationality": "Indonesia"
+                },
+                {
+                    "id": 31986,
+                    "name": "Iv\u00e1n M\u00e1rquez",
+                    "position": "Defence",
+                    "dateOfBirth": "1994-06-09",
+                    "nationality": "Spain"
+                },
+                {
+                    "id": 81022,
+                    "name": "Bart van Rooij",
+                    "position": "Defence",
+                    "dateOfBirth": "2001-05-26",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 176767,
+                    "name": "Brayann Pereira",
+                    "position": "Defence",
+                    "dateOfBirth": "2003-05-21",
+                    "nationality": "France"
+                },
+                {
+                    "id": 176949,
+                    "name": "D'Leanu Arts",
+                    "position": "Defence",
+                    "dateOfBirth": "2003-05-27",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 250442,
+                    "name": "Thomas Reinders",
+                    "position": "Defence",
+                    "dateOfBirth": "2004-01-11",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 3458,
+                    "name": "Lasse Sch\u00f6ne",
+                    "position": "Midfield",
+                    "dateOfBirth": "1986-05-27",
+                    "nationality": "Denmark"
+                },
+                {
+                    "id": 7695,
+                    "name": "Mees Hoedemakers",
+                    "position": "Midfield",
+                    "dateOfBirth": "1998-02-18",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 108460,
+                    "name": "Lars Olden Larsen",
+                    "position": "Midfield",
+                    "dateOfBirth": "1998-09-17",
+                    "nationality": "Norway"
+                },
+                {
+                    "id": 131178,
+                    "name": "Dirk Proper",
+                    "position": "Midfield",
+                    "dateOfBirth": "2002-02-24",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 178127,
+                    "name": "Basar Onal",
+                    "position": "Midfield",
+                    "dateOfBirth": "2004-07-06",
+                    "nationality": "Turkey"
+                },
+                {
+                    "id": 187040,
+                    "name": "Sami Ouaissa",
+                    "position": "Midfield",
+                    "dateOfBirth": "2004-10-02",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 187373,
+                    "name": "Kas de Wit",
+                    "position": "Midfield",
+                    "dateOfBirth": "2003-07-26",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 191033,
+                    "name": "Daan Maas",
+                    "position": "Midfield",
+                    "dateOfBirth": "2003-03-10",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 217935,
+                    "name": "Kodai Sano",
+                    "position": "Midfield",
+                    "dateOfBirth": "2003-09-25",
+                    "nationality": "Japan"
+                },
+                {
+                    "id": 262300,
+                    "name": "Omar Mohamedhoesein",
+                    "position": "Midfield",
+                    "dateOfBirth": "2004-05-15",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 263546,
+                    "name": "Argyrios Darelas",
+                    "position": "Midfield",
+                    "dateOfBirth": "2003-10-16",
+                    "nationality": "Greece"
+                },
+                {
+                    "id": 48659,
+                    "name": "Koki Ogawa",
+                    "position": "Offence",
+                    "dateOfBirth": "1997-08-08",
+                    "nationality": "Japan"
+                },
+                {
+                    "id": 98793,
+                    "name": "Roberto Gonz\u00e1lez",
+                    "position": "Offence",
+                    "dateOfBirth": "2001-01-06",
+                    "nationality": "Spain"
+                },
+                {
+                    "id": 137025,
+                    "name": "Sontje Hansen",
+                    "position": "Offence",
+                    "dateOfBirth": "2000-05-18",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 260721,
+                    "name": "Luc Nieuwenhuijs",
+                    "position": "Offence",
+                    "dateOfBirth": "2007-03-01",
+                    "nationality": "Netherlands"
+                }
+            ],
+            "staff": [],
+            "lastUpdated": "2022-03-06T09:55:52Z"
+        },
+        {
+            "area": {
+                "id": 2163,
+                "name": "Netherlands",
+                "code": "NLD",
+                "flag": "https://crests.football-data.org/8601.svg"
+            },
+            "id": 1920,
+            "name": "Fortuna Sittard",
+            "shortName": "Sittard",
+            "tla": "SIT",
+            "crest": "https://crests.football-data.org/1920.png",
+            "address": "Milaanstraat 120 Sittard 6135 LH",
+            "website": "http://www.fortuna-sittard.nl",
+            "founded": 1968,
+            "clubColors": "Yellow / Green",
+            "venue": "Fortuna Sittard Stadion",
+            "runningCompetitions": [
+                {
+                    "id": 2180,
+                    "name": "Club Friendlies",
+                    "code": "CLF",
+                    "type": "PLAYOFFS",
+                    "emblem": null
+                },
+                {
+                    "id": 2003,
+                    "name": "Eredivisie",
+                    "code": "DED",
+                    "type": "LEAGUE",
+                    "emblem": "https://crests.football-data.org/ED.png"
+                }
+            ],
+            "coach": {
+                "id": 55440,
+                "firstName": "Danny",
+                "lastName": "Buijs",
+                "name": "Danny Buijs",
+                "dateOfBirth": "1982-06-21",
+                "nationality": "Netherlands",
+                "contract": {
+                    "start": "2023-07",
+                    "until": "2025-06"
+                }
+            },
+            "squad": [
+                {
+                    "id": 7373,
+                    "name": "Mattijs Branderhorst",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "1993-12-31",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 7434,
+                    "name": "Luuk Koopmans",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "1993-11-18",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 251087,
+                    "name": "Ramazan Bayram",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "2004-10-12",
+                    "nationality": "Belgium"
+                },
+                {
+                    "id": 3983,
+                    "name": "Ivo Pinto",
+                    "position": "Defence",
+                    "dateOfBirth": "1990-01-07",
+                    "nationality": "Portugal"
+                },
+                {
+                    "id": 7550,
+                    "name": "Mitchell Dijks",
+                    "position": "Defence",
+                    "dateOfBirth": "1993-02-09",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 122378,
+                    "name": "Shawn Adewoye",
+                    "position": "Defence",
+                    "dateOfBirth": "2000-06-29",
+                    "nationality": "Belgium"
+                },
+                {
+                    "id": 145442,
+                    "name": "Rodrigo Guth",
+                    "position": "Defence",
+                    "dateOfBirth": "2000-11-10",
+                    "nationality": "Brazil"
+                },
+                {
+                    "id": 149037,
+                    "name": "Syb Van Ottele",
+                    "position": "Defence",
+                    "dateOfBirth": "2002-02-02",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 186506,
+                    "name": "Darijo Grujcic",
+                    "position": "Defence",
+                    "dateOfBirth": "1999-05-19",
+                    "nationality": "Austria"
+                },
+                {
+                    "id": 1948,
+                    "name": "Samuel Bastien",
+                    "position": "Midfield",
+                    "dateOfBirth": "1996-09-26",
+                    "nationality": "DR Congo"
+                },
+                {
+                    "id": 2396,
+                    "name": "Alessio Da Cruz",
+                    "position": "Midfield",
+                    "dateOfBirth": "1997-01-18",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 3131,
+                    "name": "Alen Halilovi\u0107",
+                    "position": "Midfield",
+                    "dateOfBirth": "1996-06-18",
+                    "nationality": "Croatia"
+                },
+                {
+                    "id": 81548,
+                    "name": "\u00damaro Embal\u00f3",
+                    "position": "Midfield",
+                    "dateOfBirth": "2001-05-06",
+                    "nationality": "Portugal"
+                },
+                {
+                    "id": 90818,
+                    "name": "Loreintz Rosier",
+                    "position": "Midfield",
+                    "dateOfBirth": "1998-08-14",
+                    "nationality": "France"
+                },
+                {
+                    "id": 122348,
+                    "name": "Josip Mitrovi\u0107",
+                    "position": "Midfield",
+                    "dateOfBirth": "2000-06-11",
+                    "nationality": "Croatia"
+                },
+                {
+                    "id": 184123,
+                    "name": "Ryan Fosso",
+                    "position": "Midfield",
+                    "dateOfBirth": "2002-06-17",
+                    "nationality": "Cameroon"
+                },
+                {
+                    "id": 252886,
+                    "name": "Tristan Schenkhuizen",
+                    "position": "Midfield",
+                    "dateOfBirth": "2004-07-12",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 262333,
+                    "name": "Luka Tunjic",
+                    "position": "Midfield",
+                    "dateOfBirth": "2005-11-19",
+                    "nationality": "Bosnia-Herzegovina"
+                },
+                {
+                    "id": 7361,
+                    "name": "Kristoffer Peterson",
+                    "position": "Offence",
+                    "dateOfBirth": "1994-11-28",
+                    "nationality": "Sweden"
+                },
+                {
+                    "id": 7574,
+                    "name": "Kaj Sierhuis",
+                    "position": "Offence",
+                    "dateOfBirth": "1998-04-27",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 23197,
+                    "name": "Ante Erceg",
+                    "position": "Offence",
+                    "dateOfBirth": "1989-12-12",
+                    "nationality": "Croatia"
+                },
+                {
+                    "id": 150541,
+                    "name": "Jasper Dahlhaus",
+                    "position": "Offence",
+                    "dateOfBirth": "2001-11-27",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 181781,
+                    "name": "Milan Robberechts",
+                    "position": "Offence",
+                    "dateOfBirth": "2004-03-04",
+                    "nationality": "Belgium"
+                },
+                {
+                    "id": 211884,
+                    "name": "Onur Demir",
+                    "position": "Offence",
+                    "dateOfBirth": "2002-08-23",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 251238,
+                    "name": "Sjors-Lowis Hermsen",
+                    "position": "Offence",
+                    "dateOfBirth": null,
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 255930,
+                    "name": "Makan A\u00efko",
+                    "position": "Offence",
+                    "dateOfBirth": "2001-01-07",
+                    "nationality": "France"
+                }
+            ],
+            "staff": [],
+            "lastUpdated": "2022-03-22T10:11:54Z"
+        },
+        {
+            "area": {
+                "id": 2163,
+                "name": "Netherlands",
+                "code": "NLD",
+                "flag": "https://crests.football-data.org/8601.svg"
+            },
+            "id": 6806,
+            "name": "Sparta Rotterdam",
+            "shortName": "Sparta",
+            "tla": "SPA",
+            "crest": "https://crests.football-data.org/6806.png",
+            "address": "Spartapark Noord 1 Rotterdam 3027 VW",
+            "website": "http://www.sparta-rotterdam.nl",
+            "founded": 1888,
+            "clubColors": "Red / White / Black",
+            "venue": "Sparta-Stadion Het Kasteel",
+            "runningCompetitions": [
+                {
+                    "id": 2180,
+                    "name": "Club Friendlies",
+                    "code": "CLF",
+                    "type": "PLAYOFFS",
+                    "emblem": null
+                },
+                {
+                    "id": 2003,
+                    "name": "Eredivisie",
+                    "code": "DED",
+                    "type": "LEAGUE",
+                    "emblem": "https://crests.football-data.org/ED.png"
+                }
+            ],
+            "coach": {
+                "id": 55068,
+                "firstName": "Jeroen",
+                "lastName": "Rijsdijk",
+                "name": "Jeroen Rijsdijk",
+                "dateOfBirth": "1977-05-24",
+                "nationality": "Netherlands",
+                "contract": {
+                    "start": "2023-07",
+                    "until": "2025-06"
+                }
+            },
+            "squad": [
+                {
+                    "id": 7673,
+                    "name": "Nick Olij",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "1995-08-01",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 124801,
+                    "name": "Youri Schoonderwaldt",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "2000-03-13",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 206501,
+                    "name": "Kaylen Reitmaier",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "2004-04-05",
+                    "nationality": "Germany"
+                },
+                {
+                    "id": 10150,
+                    "name": "Sa\u00efd Bakari",
+                    "position": "Defence",
+                    "dateOfBirth": "1994-09-22",
+                    "nationality": "Comoros"
+                },
+                {
+                    "id": 81804,
+                    "name": "Mike Eerdhuijzen",
+                    "position": "Defence",
+                    "dateOfBirth": "2000-07-13",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 100089,
+                    "name": "Djevencio van der Kust",
+                    "position": "Defence",
+                    "dateOfBirth": "2001-04-30",
+                    "nationality": "Suriname"
+                },
+                {
+                    "id": 133763,
+                    "name": "Boyd Reith",
+                    "position": "Defence",
+                    "dateOfBirth": "1999-05-05",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 149181,
+                    "name": "Rick Meissen",
+                    "position": "Defence",
+                    "dateOfBirth": "2002-02-24",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 211714,
+                    "name": "Sergi Rosanas",
+                    "position": "Defence",
+                    "dateOfBirth": "2001-01-29",
+                    "nationality": "Spain"
+                },
+                {
+                    "id": 254333,
+                    "name": "Marvin Young",
+                    "position": "Defence",
+                    "dateOfBirth": "2005-10-02",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 6715,
+                    "name": "Jonathan de Guzm\u00e1n",
+                    "position": "Midfield",
+                    "dateOfBirth": "1987-09-13",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 7658,
+                    "name": "Arno Verschueren",
+                    "position": "Midfield",
+                    "dateOfBirth": "1997-04-08",
+                    "nationality": "Belgium"
+                },
+                {
+                    "id": 38122,
+                    "name": "Joshua Kitolano",
+                    "position": "Midfield",
+                    "dateOfBirth": "2001-08-03",
+                    "nationality": "Norway"
+                },
+                {
+                    "id": 38124,
+                    "name": "Tobias Lauritsen",
+                    "position": "Midfield",
+                    "dateOfBirth": "1997-08-30",
+                    "nationality": "Norway"
+                },
+                {
+                    "id": 149054,
+                    "name": "Julian Baas",
+                    "position": "Midfield",
+                    "dateOfBirth": "2002-04-16",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 154112,
+                    "name": "Mohamed Nassoh",
+                    "position": "Midfield",
+                    "dateOfBirth": "2003-01-26",
+                    "nationality": "Morocco"
+                },
+                {
+                    "id": 154152,
+                    "name": "Camiel Neghli",
+                    "position": "Midfield",
+                    "dateOfBirth": "2001-11-06",
+                    "nationality": "Algeria"
+                },
+                {
+                    "id": 161068,
+                    "name": "Shunsuke Mito",
+                    "position": "Midfield",
+                    "dateOfBirth": "2002-09-28",
+                    "nationality": "Japan"
+                },
+                {
+                    "id": 169252,
+                    "name": "Metinho",
+                    "position": "Midfield",
+                    "dateOfBirth": "2003-04-23",
+                    "nationality": "Brazil"
+                },
+                {
+                    "id": 178159,
+                    "name": "Mike Kleijn",
+                    "position": "Midfield",
+                    "dateOfBirth": "2005-02-09",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 227016,
+                    "name": "Hamza el Dahri",
+                    "position": "Midfield",
+                    "dateOfBirth": "2005-03-05",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 231030,
+                    "name": "Teo Quintero",
+                    "position": "Midfield",
+                    "dateOfBirth": "1999-03-02",
+                    "nationality": "Venezuela"
+                },
+                {
+                    "id": 254626,
+                    "name": "Ayoub Oufkir",
+                    "position": "Midfield",
+                    "dateOfBirth": "2006-01-04",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 4286,
+                    "name": "Pelle Clement",
+                    "position": "Offence",
+                    "dateOfBirth": "1996-05-19",
+                    "nationality": "Netherlands"
+                },
+                {
+                    "id": 125169,
+                    "name": "Charles-Andr\u00e9as Brym",
+                    "position": "Offence",
+                    "dateOfBirth": "1998-08-08",
+                    "nationality": "Canada"
+                },
+                {
+                    "id": 211715,
+                    "name": "Agustin Anello",
+                    "position": "Offence",
+                    "dateOfBirth": "2002-04-22",
+                    "nationality": "USA"
+                }
+            ],
+            "staff": [],
+            "lastUpdated": "2022-03-22T10:09:59Z"
+        }
+    ]
+}

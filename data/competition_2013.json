@@ -1,0 +1,23 @@
+{
+    "id": 2013,
+    "area": {
+        "id": 2032,
+        "name": "Brazil",
+        "code": "BRA",
+        "flag": "https://crests.football-data.org/764.svg"
+    },
+    "name": "Campeonato Brasileiro S\u00e9rie A",
+    "code": "BSA",
+    "type": "LEAGUE",
+    "emblem": "https://crests.football-data.org/bsa.png",
+    "plan": "TIER_ONE",
+    "currentSeason": {
+        "id": 2257,
+        "startDate": "2024-04-13",
+        "endDate": "2024-12-08",
+        "currentMatchday": 24,
+        "winner": null
+    },
+    "numberOfAvailableSeasons": 8,
+    "lastUpdated": "2024-05-08T14:08:14Z"
+}

@@ -1,0 +1,289 @@
+{
+    "count": 1,
+    "filters": {
+        "season": "2024"
+    },
+    "competition": {
+        "id": 2001,
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP",
+        "emblem": "https://crests.football-data.org/CL.png"
+    },
+    "season": {
+        "id": 2350,
+        "startDate": "2024-09-01",
+        "endDate": "2025-05-19",
+        "currentMatchday": null,
+        "winner": null
+    },
+    "teams": [
+        {
+            "area": {
+                "id": 2088,
+                "name": "Germany",
+                "code": "DEU",
+                "flag": "https://crests.football-data.org/759.svg"
+            },
+            "id": 5,
+            "name": "FC Bayern M\u00fcnchen",
+            "shortName": "Bayern",
+            "tla": "FCB",
+            "crest": "https://crests.football-data.org/5.png",
+            "address": "S\u00e4benerstr. 51 M\u00fcnchen 81547",
+            "website": "http://www.fcbayern.de",
+            "founded": 1900,
+            "clubColors": "Red / White / Blue",
+            "venue": "Allianz Arena",
+            "runningCompetitions": [
+                {
+                    "id": 2011,
+                    "name": "DFB-Pokal",
+                    "code": "DFB",
+                    "type": "CUP",
+                    "emblem": "https://crests.football-data.org/DFB_CUP.png"
+                },
+                {
+                    "id": 2180,
+                    "name": "Club Friendlies",
+                    "code": "CLF",
+                    "type": "PLAYOFFS",
+                    "emblem": null
+                },
+                {
+                    "id": 2002,
+                    "name": "Bundesliga",
+                    "code": "BL1",
+                    "type": "LEAGUE",
+                    "emblem": "https://crests.football-data.org/BL1.png"
+                },
+                {
+                    "id": 2001,
+                    "name": "UEFA Champions League",
+                    "code": "CL",
+                    "type": "CUP",
+                    "emblem": "https://crests.football-data.org/CL.png"
+                }
+            ],
+            "coach": {
+                "id": 3644,
+                "firstName": "Vincent",
+                "lastName": "Kompany",
+                "name": "Vincent Kompany",
+                "dateOfBirth": "1986-04-10",
+                "nationality": "Belgium",
+                "contract": {
+                    "start": "2024-07",
+                    "until": "2027-06"
+                }
+            },
+            "squad": [
+                {
+                    "id": 341,
+                    "name": "Manuel Neuer",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "1986-03-27",
+                    "nationality": "Germany"
+                },
+                {
+                    "id": 342,
+                    "name": "Sven Ulreich",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "1988-08-03",
+                    "nationality": "Germany"
+                },
+                {
+                    "id": 113105,
+                    "name": "Daniel Peretz",
+                    "position": "Goalkeeper",
+                    "dateOfBirth": "2000-07-10",
+                    "nationality": "Israel"
+                },
+                {
+                    "id": 171069,
+                    "name": "Gabriel Vidovic",
+                    "position": "Midfield",
+                    "dateOfBirth": "2003-12-01",
+                    "nationality": "Croatia"
+                },
+                {
+                    "id": 176899,
+                    "name": "Arijon Ibrahimovic",
+                    "position": "Midfield",
+                    "dateOfBirth": "2005-12-11",
+                    "nationality": "Germany"
+                },
+                {
+                    "id": 370,
+                    "name": "Thomas M\u00fcller",
+                    "position": "Offence",
+                    "dateOfBirth": "1989-09-13",
+                    "nationality": "Germany"
+                },
+                {
+                    "id": 176991,
+                    "name": "Nestor Irankunda",
+                    "position": "Offence",
+                    "dateOfBirth": "2006-02-09",
+                    "nationality": "Australia"
+                },
+                {
+                    "id": 212013,
+                    "name": "Tarek Buchmann",
+                    "position": "Centre-Back",
+                    "dateOfBirth": "2005-02-28",
+                    "nationality": "Germany"
+                },
+                {
+                    "id": 202665,
+                    "name": "Aleksandar Pavlovi\u0107",
+                    "position": "Defensive Midfield",
+                    "dateOfBirth": "2004-05-03",
+                    "nationality": "Germany"
+                },
+                {
+                    "id": 202588,
+                    "name": "Noel Aseko Nkili",
+                    "position": "Defensive Midfield",
+                    "dateOfBirth": "2005-11-22",
+                    "nationality": "Germany"
+                },
+                {
+                    "id": 171977,
+                    "name": "Mathys Tel",
+                    "position": "Left Winger",
+                    "dateOfBirth": "2005-04-27",
+                    "nationality": "France"
+                },
+                {
+                    "id": 168299,
+                    "name": "Min-Jae Kim",
+                    "position": "Centre-Back",
+                    "dateOfBirth": "1996-11-15",
+                    "nationality": "South Korea"
+                },
+                {
+                    "id": 144393,
+                    "name": "Jamal Musiala",
+                    "position": "Attacking Midfield",
+                    "dateOfBirth": "2003-02-26",
+                    "nationality": "Germany"
+                },
+                {
+                    "id": 122188,
+                    "name": "Josip Stani\u0161i\u0107",
+                    "position": "Right-Back",
+                    "dateOfBirth": "2000-04-02",
+                    "nationality": "Croatia"
+                },
+                {
+                    "id": 114915,
+                    "name": "Sacha Boey",
+                    "position": "Right-Back",
+                    "dateOfBirth": "2000-09-13",
+                    "nationality": "France"
+                },
+                {
+                    "id": 113765,
+                    "name": "Michael Olise",
+                    "position": "Right Winger",
+                    "dateOfBirth": "2001-12-12",
+                    "nationality": "France"
+                },
+                {
+                    "id": 48657,
+                    "name": "Hiroki Ito",
+                    "position": "Centre-Back",
+                    "dateOfBirth": "1999-05-12",
+                    "nationality": "Japan"
+                },
+                {
+                    "id": 21288,
+                    "name": "Alphonso Davies",
+                    "position": "Left-Back",
+                    "dateOfBirth": "2000-11-02",
+                    "nationality": "Canada"
+                },
+                {
+                    "id": 15884,
+                    "name": "Jo\u00e3o Palhinha",
+                    "position": "Defensive Midfield",
+                    "dateOfBirth": "1995-07-09",
+                    "nationality": "Portugal"
+                },
+                {
+                    "id": 9549,
+                    "name": "Konrad Laimer",
+                    "position": "Central Midfield",
+                    "dateOfBirth": "1997-05-27",
+                    "nationality": "Austria"
+                },
+                {
+                    "id": 9541,
+                    "name": "Dayot Upamecano",
+                    "position": "Centre-Back",
+                    "dateOfBirth": "1998-10-27",
+                    "nationality": "France"
+                },
+                {
+                    "id": 8004,
+                    "name": "Harry Kane",
+                    "position": "Centre-Forward",
+                    "dateOfBirth": "1993-07-28",
+                    "nationality": "England"
+                },
+                {
+                    "id": 3314,
+                    "name": "Eric Dier",
+                    "position": "Centre-Back",
+                    "dateOfBirth": "1994-01-15",
+                    "nationality": "England"
+                },
+                {
+                    "id": 3246,
+                    "name": "Rapha\u00ebl Guerreiro",
+                    "position": "Left-Back",
+                    "dateOfBirth": "1993-12-22",
+                    "nationality": "Portugal"
+                },
+                {
+                    "id": 3184,
+                    "name": "Leroy San\u00e9",
+                    "position": "Right Winger",
+                    "dateOfBirth": "1996-01-11",
+                    "nationality": "Germany"
+                },
+                {
+                    "id": 3181,
+                    "name": "Leon Goretzka",
+                    "position": "Central Midfield",
+                    "dateOfBirth": "1995-02-06",
+                    "nationality": "Germany"
+                },
+                {
+                    "id": 360,
+                    "name": "Kingsley Coman",
+                    "position": "Left Winger",
+                    "dateOfBirth": "1996-06-13",
+                    "nationality": "France"
+                },
+                {
+                    "id": 359,
+                    "name": "Joshua Kimmich",
+                    "position": "Central Midfield",
+                    "dateOfBirth": "1995-02-08",
+                    "nationality": "Germany"
+                },
+                {
+                    "id": 311,
+                    "name": "Serge Gnabry",
+                    "position": "Right Winger",
+                    "dateOfBirth": "1995-07-14",
+                    "nationality": "Germany"
+                }
+            ],
+            "staff": [],
+            "lastUpdated": "2024-07-09T17:26:37Z"
+        }
+    ]
+}

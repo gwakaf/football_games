@@ -1,0 +1,23 @@
+{
+    "id": 2002,
+    "area": {
+        "id": 2088,
+        "name": "Germany",
+        "code": "DEU",
+        "flag": "https://crests.football-data.org/759.svg"
+    },
+    "name": "Bundesliga",
+    "code": "BL1",
+    "type": "LEAGUE",
+    "emblem": "https://crests.football-data.org/BL1.png",
+    "plan": "TIER_ONE",
+    "currentSeason": {
+        "id": 2308,
+        "startDate": "2024-08-23",
+        "endDate": "2025-05-17",
+        "currentMatchday": 1,
+        "winner": null
+    },
+    "numberOfAvailableSeasons": 62,
+    "lastUpdated": "2022-03-20T08:52:53Z"
+}

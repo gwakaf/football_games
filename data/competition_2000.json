@@ -1,0 +1,35 @@
+{
+    "id": 2000,
+    "area": {
+        "id": 2267,
+        "name": "World",
+        "code": "INT",
+        "flag": null
+    },
+    "name": "FIFA World Cup",
+    "code": "WC",
+    "type": "CUP",
+    "emblem": "https://crests.football-data.org/qatar.png",
+    "plan": "TIER_ONE",
+    "currentSeason": {
+        "id": 1382,
+        "startDate": "2022-11-20",
+        "endDate": "2022-12-18",
+        "currentMatchday": 8,
+        "winner": {
+            "id": 762,
+            "name": "Argentina",
+            "shortName": "Argentina",
+            "tla": "ARG",
+            "crest": "https://crests.football-data.org/762.png",
+            "address": "Viamonte 1366/76 Buenos Aires, Buenos Aires 1053",
+            "website": "http://www.afa.org.ar",
+            "founded": 1893,
+            "clubColors": "Sky Blue / White / Black",
+            "venue": null,
+            "lastUpdated": "2022-05-17T21:09:25Z"
+        }
+    },
+    "numberOfAvailableSeasons": 22,
+    "lastUpdated": "2022-05-09T19:45:29Z"
+}

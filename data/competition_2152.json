@@ -1,0 +1,23 @@
+{
+    "id": 2152,
+    "area": {
+        "id": 2220,
+        "name": "South America",
+        "code": "SAM",
+        "flag": "https://crests.football-data.org/CLI.svg"
+    },
+    "name": "Copa Libertadores",
+    "code": "CLI",
+    "type": "CUP",
+    "emblem": "https://crests.football-data.org/CLI.svg",
+    "plan": "TIER_ONE",
+    "currentSeason": {
+        "id": 1644,
+        "startDate": "2024-02-07",
+        "endDate": "2024-08-23",
+        "currentMatchday": 6,
+        "winner": null
+    },
+    "numberOfAvailableSeasons": 4,
+    "lastUpdated": "2024-06-20T18:59:19Z"
+}
