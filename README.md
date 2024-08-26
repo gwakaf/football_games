@@ -7,6 +7,10 @@ Football games statistics.
 
 This project is a data pipeline that uses API to extract information, stores the data locally, loads it into a PostgreSQL database, and exports a summary into a CSV file..
 
+## Architecture diagram
+
+![architecture_diagram](https://github.com/gwakaf/football_games/blob/main/architecture_diagram.png?raw=true)
+
 
 ## Build with
 
