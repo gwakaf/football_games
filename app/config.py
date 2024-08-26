@@ -1,4 +1,4 @@
-API_KEY = '5947c680a0ab4718b860504baedca73b' 
+API_KEY = 'your_api_key' 
 JSON_OUTPUT_DATA_FILE_PATH = "/data/"
 OUTPUT_CSV_FILE_PATH = '/outputs/competition_summary.csv'
 
