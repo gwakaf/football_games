@@ -1,7 +1,7 @@
 
 # Project Title
 
-Football games statistics.
+Football games statistics. 
 
 ## Description
 
